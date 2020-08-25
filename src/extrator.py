@@ -12,12 +12,13 @@ class Extrator(object):
             if resposta.status_code == 200:
                 self.__filtro(resposta.text,url)
             else:
-                raise ConnectionError
-        except ConnectionError as e:
-            print(e)
+                raise requests.RequestException
+        except requests.RequestException as e:
+            print('Erro!!')
     
     def __filtro(self,content,url):
-        conteudoFiltrado = re.sub("<[^>]*>", "", content)
-        url = url.replace('https://')
+        conteudoFiltrado = re.sub("<script[^~]*>[^~]*</script>", "", content)
+        conteudoFiltrado = re.sub("<[^>]*>", "", conteudoFiltrado)
+        url = url.replace("https://","")
         url = url.replace("/","")
         open('../database/'+url+'.txt', "w").write(conteudoFiltrado)
