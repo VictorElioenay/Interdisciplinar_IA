@@ -18,6 +18,7 @@ class Extrator(object):
     
     def __filtro(self,content,url):
         conteudoFiltrado = re.sub("<script[^~]*>[^~]*</script>", "", content)
+        conteudoFiltrado = re.sub("<style[^~]*>[^~]*</style>", "", conteudoFiltrado)
         conteudoFiltrado = re.sub("<[^>]*>", "", conteudoFiltrado)
         url = url.replace("https://","")
         url = url.replace("/","")
