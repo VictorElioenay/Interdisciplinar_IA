@@ -17,9 +17,7 @@ class Extrator(object):
             print('Erro!!')
     
     def __filtro(self,content,url):
-        conteudoFiltrado = re.sub("<script[^~]*>[^~]*</script>", "", content)
-        conteudoFiltrado = re.sub("<style[^~]*>[^~]*</style>", "", conteudoFiltrado)
-        conteudoFiltrado = re.sub("<[^>]*>", "", conteudoFiltrado)
+        conteudoFiltrado = re.sub("<script[^~]*>[^~]*</script>|<style[^~]*>[^~]*</style>|<[^>]*>", "", content)
         url = url.replace("https://","")
         url = url.replace("/","")
         open('../database/'+url+'.txt', "w").write(conteudoFiltrado)
