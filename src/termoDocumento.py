@@ -21,7 +21,9 @@ class TermoDocumento(object):
                 
                 for token in termo_documento[link]:
                     termo_documento[link][token] = aux.count(token)
-              
+        
+        return termo_documento
+
     def redefinir_matriz(self,termo_documento,tokens):
         v_idf = {}
         count = 0
