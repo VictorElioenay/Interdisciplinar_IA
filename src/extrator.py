@@ -1,5 +1,7 @@
 import requests
 from nltk.tokenize import regexp_tokenize
+import nltk
+from nltk.stem.snowball import SnowballStemmer
 import os
 import re
 import math
@@ -33,12 +35,15 @@ class Extrator(object):
         
         for site in data:
             with open("../database/"+site) as arquivo:     
-                aux += regexp_tokenize(arquivo.read(),pattern = "[a-zA-Z]+\w+")
+                aux += regexp_tokenize(arquivo.read().lower(),pattern = "[a-zA-Z]+\w+")
               
-        #Radicalização Faltando
+        stemmer = SnowballStemmer('portuguese')
+        estemas = [stemmer.stem(aux) for aux in aux]
+        
     
-        for item in aux:
-            if(not(tokens.__contains__(item.lower()))):
-                tokens[item.lower()] = 0
-         
+        for item in estemas:
+            if(not(tokens.__contains__(item))):
+                tokens[item] = 0
+
+        #print(tokens) 
         return tokens

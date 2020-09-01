@@ -1,4 +1,5 @@
 from nltk.tokenize import regexp_tokenize
+from nltk.stem.snowball import SnowballStemmer
 
 class TermoDocumento(object):
     def __init__(self):
@@ -19,9 +20,12 @@ class TermoDocumento(object):
             with open("../database/"+url+'.txt') as arquivo:     
                 aux = regexp_tokenize(arquivo.read().lower(),pattern = "[a-zA-Z]+\w+")
                 
+                stemmer = SnowballStemmer('portuguese')
+                estemas = [stemmer.stem(aux) for aux in aux]
+                
                 for token in termo_documento[link]:
-                    termo_documento[link][token] = aux.count(token)
-        
+                    termo_documento[link][token] = estemas.count(token)
+               
         return termo_documento
 
     def redefinir_matriz(self,termo_documento,tokens):
