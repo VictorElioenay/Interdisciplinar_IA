@@ -40,7 +40,6 @@ class Extrator(object):
         stemmer = SnowballStemmer('portuguese')
         estemas = [stemmer.stem(aux) for aux in aux]
         
-    
         for item in estemas:
             if(not(tokens.__contains__(item))):
                 tokens[item] = 0

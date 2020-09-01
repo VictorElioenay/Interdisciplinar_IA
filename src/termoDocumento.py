@@ -11,7 +11,7 @@ class TermoDocumento(object):
         count = 0
         with open("../links.txt") as arquivo:
             for url in arquivo:
-                termo_documento[url] = tokens
+                termo_documento[url] = tokens.copy()
                 count+=1
         
         return { "matriz" : termo_documento, "n_documentos" : count}
@@ -40,10 +40,7 @@ class TermoDocumento(object):
             for url in termo_documento:
                 if(termo_documento[url][token] != 0 ):
                     count+=1
-            if(count != 0):   
-                v_idf[token] = math.log(total_sites/count,10)
-            else:
-                print(token)
+            v_idf[token] = math.log(total_sites/count,10)
             count = 0
 
         for token in tokens:
