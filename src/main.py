@@ -12,12 +12,12 @@ import re
 tokens = Extrator().extrair_tokens()
 hashh = TermoDocumento().contruir_matriz(tokens)
 matriz_hash = TermoDocumento().preencher_matriz_tf(hashh['matriz'])
-# TermoDocumento().redefinir_matriz(matriz_hash, tokens, hashh['n_documentos'])
+TermoDocumento().redefinir_matriz(matriz_hash, tokens, hashh['n_documentos'])
 
-for url in matriz_hash:
-    for tokens in matriz_hash[url]:
-        print(url)
-        print(matriz_hash[url])
-        break
-    break
-    # print('\n')
+# for url in matriz_hash:
+#     for tokens in matriz_hash[url]:
+#         print(url)
+#         print(matriz_hash[url])
+#         break
+#     break
+#     # print('\n')
