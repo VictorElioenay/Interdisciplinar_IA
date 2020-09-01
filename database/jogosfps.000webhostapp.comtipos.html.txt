@@ -1,0 +1,46 @@
+
+
+
+    
+    
+    
+    
+    Tipos
+
+
+    
+        Jogos FPS   
+        
+            
+                Home
+                Recomendados
+                Tipos
+                História
+                Empresas
+                Gameplays
+                FPS no Brasil
+                Mídias
+            
+        
+    
+        
+            MOBA
+            Moba é um gênero de jogos eletrônicos que mistura elementos de ação, estratégia e RPG (Role Playing Game).
+            Apesar de possuir algumas semelhanças, o gênero MOBA não deve ser confundido com o MMO (massive multiplayer online), enquanto o MMO é marcado por “não ter fim”, o MOBA possui um número máximo de jogadores e é definido em partidas curtas nas quais um time sai vencedor. Uma vez que as partidas são concluídas, os jogadores não transferem itens ou personagens para as próximas.
+            Os jogos MOBA se tornaram muito populares no mundo inteiro e já movimentam milhões de dólares por ano na indústria de eSports (esportes eletrônicos). As competições de jogos MOBA possuem as maiores premiações da indústria e chegaram a distribuir quase 25 milhões de dólares em um único campeonato de Dota 2 em 2017.
+            Os dois FPS mais famosos desse gênero são Overwatch e Paladins.
+            MMO
+            Quando se fala de jogos para computadores o que muitas pessoas lembram são os "MMOs". Essa abreviação costuma ser relacionada diretamente com os títulos de RPG, em que o jogador só progride na história com o auxílio de outros colegas online, mas na verdade ele significa qualquer jogo online que suporte conexões e partidas com centenas ou milhares de pessoas ao mesmo tempo.
+            Entre os FPS deste temos Warframe e Planetside 2.
+            Battleground
+            Modo de jogo mais recente, cerca de 100 a 200 jogadores são lançados em varios pontos de um  mapa gigante onde podem coletar recursos e armas para lutar todos contra todos,o mapa com o tempo vai se reduzindo para que os jodares sejam obrigados a se encontrarem
+            Stealth
+            Um dos modos de jogo mais antigos onde você deve completar missões sem que inimigos NPC te encontrem
+            Clássico
+            Fps clássicos são aqueles onde guerras são retradas, onde se tem modos de história para se jogar sozinho e os jogadores também podem se enfrentar no modo multiplayer em vários modos de jogos que mudam suas armas e com diferentes obejetivos, testando quem  tem melhor reflexo e habilidade.
+        
+
+    
+        Site de estudo HTML
+    
+
