@@ -2,3 +2,7 @@
 
 pip install request
 pip install nltk
+
+## Para rodar o projeto execute
+
+python src/main.py
