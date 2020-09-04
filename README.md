@@ -1,8 +1,15 @@
-## Antes de rodar o projeto deve-se rodar os seguintes comandos:
+Instalar o módulo requestes do Python com:
+~~~ Python
+ pip install requests
+ pip install nltk
+~~~
+ou
+~~~Python3
+ pip3 install requestes
+ pip3 install nltk
+~~~
 
-pip install request
-pip install nltk
-
-## Para rodar o projeto execute
-
-python src/main.py
+Para rodar 
+~~~ Python
+ python src/main.py
+~~~
