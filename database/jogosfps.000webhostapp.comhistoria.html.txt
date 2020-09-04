@@ -5,7 +5,7 @@
     
     
     
-    História
+    Histria
 
 
     
@@ -15,24 +15,24 @@
                 Home
                 Recomendados
                 Tipos
-                História
+                Histria
                 Empresas
                 Gameplays
                 FPS no Brasil
-                Mídias
+                Mdias
             
         
     
     
         
-            História do FPS
-            Inicialmente, havia jogos que simulavam uma perspectiva em "primeira pessoa", mas os personagens não podiam se locomover autonomamente pelo cenário. Um dos primeiros onde o jogador podia se locomover foi Battlezone (1980), um simulador de tanque da Atari, bastante popular. 
-            O gênero só começou a se definir no fim dos anos 1980, quando os gráficos 3D se aperfeiçoavam. Em 1991, os futuros fundadores da id Software lançaram Hovertank 3D, um jogo de tanque com um complexo labirinto 3D. Após isso lançaram Catacomb 3D, com várias melhorias nos gráficos e na jogabilidade. 
-            Em 1992, a tecnologia fora aperfeiçoada com suporte para gráficos VGA em Wolfenstein 3D, lançado pela id Software, também trouxe a possibilidade de mudar de arma, coletar munições, entre outras novidades. Wolf 3D tornou-se um sucesso e é considerado o primeiro FPS real. 
-            Em 1993 a id Software lançou Doom. Com aperfeiçoamentos gráficos (texturas no teto e chão, paredes de tamanhos diferentes, níveis de altura diferenciados) e modos multiplayer, tornou-se o título seminal do gênero, virando sinônimo de jogo FPS. 
-            Em 1996, mais uma vez a id inovou o gênero, com Quake, o primeiro FPS com gráficos totalmente tridimensionais, pois os títulos anteriores mostravam os inimigos e armas como figuras bidimensionais. O seu motor de jogo foi vendido a várias empresas, dando origem a muitos títulos, como Half-Life e Counter-Strike. No mesmo ano foi lançado Duke Nukem 3D, da 3D Realms, que também possuía os avanços gráficos de Quake (ambientes destrutíveis, alturas variáveis para cômodos, salas-sobre-salas) e fez sucesso com seu protagonista machão e sarcástico. 
-            Havia poucos títulos para consoles, principalmente pelos controles com joystick não serem precisos como teclado e mouse, Os jogos em videogames só se popularizaram com GoldenEye 007 (1997) para o Nintendo 64, que incorporava inteligência artificial avançada, missões e cenários fiéis ao filme GoldenEye, um modo multiplayer em tela dividida com muita variedade (até quatro jogadores simultâneos) e um joypad com função analógica 3D e direcional digital, atuando sinergicamente, dando mais jogabilidade para o jogo em console. Os atiradores de console também se popularizaram na década de 2000 com a série da Microsoft Halo, com o primeiro jogo (2001) sendo o principal título no lançamento do Xbox, a sequência Halo 2 (2004) sendo o título mais vendido do console e ajudando a popularizar o serviço online Xbox Live, e Halo 3 (2007) sendo o título mais vendido do console seguinte, o Xbox 360. 
-            Um dos gêneros mais populares de tiro foi de jogos situados na Segunda Guerra Mundial, começando por Medal of Honor, em 2001. Sequências de Medal of Honor, bem como Battlefield 1942 (2002) e as séries Call of Duty e Brothers in Arms popularizaram os atiradores históricos.        
+            Histria do FPS
+            Inicialmente, havia jogos que simulavam uma perspectiva em "primeira pessoa", mas os personagens no podiam se locomover autonomamente pelo cenrio. Um dos primeiros onde o jogador podia se locomover foi Battlezone (1980), um simulador de tanque da Atari, bastante popular. 
+            O gnero s comeou a se definir no fim dos anos 1980, quando os grficos 3D se aperfeioavam. Em 1991, os futuros fundadores da id Software lanaram Hovertank 3D, um jogo de tanque com um complexo labirinto 3D. Aps isso lanaram Catacomb 3D, com vrias melhorias nos grficos e na jogabilidade. 
+            Em 1992, a tecnologia fora aperfeioada com suporte para grficos VGA em Wolfenstein 3D, lanado pela id Software, tambm trouxe a possibilidade de mudar de arma, coletar munies, entre outras novidades. Wolf 3D tornou-se um sucesso e  considerado o primeiro FPS real. 
+            Em 1993 a id Software lanou Doom. Com aperfeioamentos grficos (texturas no teto e cho, paredes de tamanhos diferentes, nveis de altura diferenciados) e modos multiplayer, tornou-se o ttulo seminal do gnero, virando sinnimo de jogo FPS. 
+            Em 1996, mais uma vez a id inovou o gnero, com Quake, o primeiro FPS com grficos totalmente tridimensionais, pois os ttulos anteriores mostravam os inimigos e armas como figuras bidimensionais. O seu motor de jogo foi vendido a vrias empresas, dando origem a muitos ttulos, como Half-Life e Counter-Strike. No mesmo ano foi lanado Duke Nukem 3D, da 3D Realms, que tambm possua os avanos grficos de Quake (ambientes destrutveis, alturas variveis para cmodos, salas-sobre-salas) e fez sucesso com seu protagonista macho e sarcstico. 
+            Havia poucos ttulos para consoles, principalmente pelos controles com joystick no serem precisos como teclado e mouse, Os jogos em videogames s se popularizaram com GoldenEye 007 (1997) para o Nintendo 64, que incorporava inteligncia artificial avanada, misses e cenrios fiis ao filme GoldenEye, um modo multiplayer em tela dividida com muita variedade (at quatro jogadores simultneos) e um joypad com funo analgica 3D e direcional digital, atuando sinergicamente, dando mais jogabilidade para o jogo em console. Os atiradores de console tambm se popularizaram na dcada de 2000 com a srie da Microsoft Halo, com o primeiro jogo (2001) sendo o principal ttulo no lanamento do Xbox, a sequncia Halo 2 (2004) sendo o ttulo mais vendido do console e ajudando a popularizar o servio online Xbox Live, e Halo 3 (2007) sendo o ttulo mais vendido do console seguinte, o Xbox 360. 
+            Um dos gneros mais populares de tiro foi de jogos situados na Segunda Guerra Mundial, comeando por Medal of Honor, em 2001. Sequncias de Medal of Honor, bem como Battlefield 1942 (2002) e as sries Call of Duty e Brothers in Arms popularizaram os atiradores histricos.        
         
     
 

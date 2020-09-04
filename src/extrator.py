@@ -5,6 +5,7 @@ from nltk.stem.snowball import SnowballStemmer
 import os
 import re
 import math
+import io
 
 class Extrator(object):
 
@@ -26,7 +27,8 @@ class Extrator(object):
     def __filtro(self,content,url):
         conteudoFiltrado = re.sub("<style[^~]*>[^+]*</style>|<script[^~]*>[^~]*</script>|<[^>]*>", "", content)
         url = url.replace("/","").replace("https:","")
-        open('../database/'+url+'.txt', "w").write(conteudoFiltrado)
+        # conteudoFiltrado=conteudoFiltrado.encode("UTF-8").decode('UTF-8')
+        open('../database/'+url+'.txt', "w").write(conteudoFiltrado.encode('ascii','ignore').decode('ascii','ignore'))
 
     def extrair_tokens(self):
         data = os.listdir("../database")

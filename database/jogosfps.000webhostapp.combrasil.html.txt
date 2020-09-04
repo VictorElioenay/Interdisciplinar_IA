@@ -15,11 +15,11 @@
                 Home
                 Recomendados
                 Tipos
-                História
+                Histria
                 Empresas
                 Gameplays
                 FPS no Brasil
-                Mídias
+                Mdias
             
         
     
@@ -27,14 +27,14 @@
     
         
             FPS no Brasil
-            O Brasil não tem grandes destaques no desenvolvimentos de jogos em geral, isso não é diferente para o FPS, não possuimos nenhum grande titulo no nosso nome, porém isso muda quando se trata do cenário competitivo de e-sports
+            O Brasil no tem grandes destaques no desenvolvimentos de jogos em geral, isso no  diferente para o FPS, no possuimos nenhum grande titulo no nosso nome, porm isso muda quando se trata do cenrio competitivo de e-sports
             Counter Strike: Global Offensive
-            Seus principais campeonatos são os Major Championships, conhecidos como Majors. Quando foram introduzidos, em 2012, a premiação era de US$ 250 mil. Atualmente, é de US$ 1 milhão. No Brasil, a principal competição do jogo é o CBCS (Campeonato Brasileiro de CS:GO), que premiará R$ 800 mil esse ano.
-            O Brasil tem três dos melhores jogadores do mundo atualmente: Lincoln “fnx” Lau, Marcelo “coldzera” David e Gabriel “FalleN” Toledo, que ganharam dois Majors juntos. Em 2006, também com “fnx” na formação, o Made in Brazil (mibr) havia vencido a Electronic Sports World Cup (ESWC), em um título considerado mundial.
-            Tom Clancy’s Rainbow Six Siege
-            Relativamente “novo” nos eSports, o Rainbow Six foi lançado em 2014 pela Ubisoft. Desde então, o game é um dos que mais crescem em jogadores e espectadores. No Brasil, em especial, o jogo já é extremamente popular. Durante o campeonato mundial Six Invitational 2019, dos 22 milhões de espectadores alcançados durante as transmissões, 30% da audiência foi representada por brasileiros.
-            Seus principais campeonatos são o Six Major, realizado em agosto, Six Invitational, em fevereiro e a ESL Pro League. As temporadas da ESL (principal organizadora de campeonatos dos eSports) têm duração aproximada de seis meses, enquanto o Brasileirão de Rainbow Six (BR6) dura, atualmente, o ano inteiro, e dá R$ 200 mil de premiação.
-            O Brasil tem alguns dos melhores jogadores do mundo, como Thiago “xS3xyCake”, Leo “ziGueira” (aposentado) e André “nesk”. Em 2018, os três foram campeões da Pro League com a equipe da Team Liquid. O jogo é pago e está disponível para Windows, MAC, Xbox One e PS4.
+            Seus principais campeonatos so os Major Championships, conhecidos como Majors. Quando foram introduzidos, em 2012, a premiao era de US$ 250 mil. Atualmente,  de US$ 1 milho. No Brasil, a principal competio do jogo  o CBCS (Campeonato Brasileiro de CS:GO), que premiar R$ 800 mil esse ano.
+            O Brasil tem trs dos melhores jogadores do mundo atualmente: Lincoln fnx Lau, Marcelo coldzera David e Gabriel FalleN Toledo, que ganharam dois Majors juntos. Em 2006, tambm com fnx na formao, o Made in Brazil (mibr) havia vencido a Electronic Sports World Cup (ESWC), em um ttulo considerado mundial.
+            Tom Clancys Rainbow Six Siege
+            Relativamente novo nos eSports, o Rainbow Six foi lanado em 2014 pela Ubisoft. Desde ento, o game  um dos que mais crescem em jogadores e espectadores. No Brasil, em especial, o jogo j  extremamente popular. Durante o campeonato mundial Six Invitational 2019, dos 22 milhes de espectadores alcanados durante as transmisses, 30% da audincia foi representada por brasileiros.
+            Seus principais campeonatos so o Six Major, realizado em agosto, Six Invitational, em fevereiro e a ESL Pro League. As temporadas da ESL (principal organizadora de campeonatos dos eSports) tm durao aproximada de seis meses, enquanto o Brasileiro de Rainbow Six (BR6) dura, atualmente, o ano inteiro, e d R$ 200 mil de premiao.
+            O Brasil tem alguns dos melhores jogadores do mundo, como Thiago xS3xyCake, Leo ziGueira (aposentado) e Andr nesk. Em 2018, os trs foram campees da Pro League com a equipe da Team Liquid. O jogo  pago e est disponvel para Windows, MAC, Xbox One e PS4.
         
     
 

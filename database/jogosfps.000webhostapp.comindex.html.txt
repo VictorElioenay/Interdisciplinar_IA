@@ -15,11 +15,11 @@
                 Home
                 Recomendados
                 Tipos
-                História
+                Histria
                 Empresas
                 Gameplays
                 FPS no Brasil
-                Mídias
+                Mdias
             
         
     
@@ -27,8 +27,8 @@
         
         
             
-            Tiro em primeira pessoa, do inglês first-person shooter (ou FPS), é um gênero de jogo de computador e consoles, centrado no combate com armas de fogo no qual se enxerga a partir do ponto de vista do protagonista, como se o jogador e personagem do jogo fossem o mesmo observador. É um subgênero de jogos de tiro. 
-            Nesse site iremos mostrar um pouco mais sobre sua história e outros delatelhes interessantes.
+            Tiro em primeira pessoa, do ingls first-person shooter (ou FPS),  um gnero de jogo de computador e consoles, centrado no combate com armas de fogo no qual se enxerga a partir do ponto de vista do protagonista, como se o jogador e personagem do jogo fossem o mesmo observador.  um subgnero de jogos de tiro. 
+            Nesse site iremos mostrar um pouco mais sobre sua histria e outros delatelhes interessantes.
         
  
     
