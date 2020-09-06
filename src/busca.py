@@ -11,6 +11,7 @@ class Busca(object):
         norma_matriz = {}
         norma_busca = 0
         escalar_matriz = {}
+        resultados = []
 
         chave_busca = regexp_tokenize(chave_busca,pattern = "[a-zA-Z]+\w+")
         stemmer = SnowballStemmer('portuguese')
@@ -30,52 +31,22 @@ class Busca(object):
                 auxiliar += matriz[url][token]**2
             norma_matriz[url] = math.sqrt(auxiliar)
 
-        for token in tokens_chave_busca:
-            for url in matriz:
-                escalar_matriz[url] = 0
+        for url in matriz:
+            escalar_matriz[url] = 0
+            for token in tokens_chave_busca:
                 if(matriz[url].__contains__(token)):
                     escalar_matriz[url] += matriz[url][token] * tokens_chave_busca[token]
                 else:
                     print("erro")
-                # for token2 in matriz[url]:
-    # Aqui
-        result_final = [0,0,0,0,0]
-        #result_final [posição] = valor 
-        result_id = [0,0,0,0,0]
-        #result_final [posição] = id hash
-        aux_result = [0,0,0,0,0]
-        # 0 valor, 1 id hash, 2 valor2, 3 id hash2
+    
         for url in escalar_matriz:
-            aux = escalar_matriz[url]/(norma_busca*norma_matriz[url])
-            for i in range(5):
-                if(aux > result_final[i]):
-                    aux_result[0]=result_final[i]
-                    aux_result[1]=result_id[i]
-                    result_final[i]=aux
-                    result_id[i]=url
-                    i += 1
-                    for i in range(i,5): 
-                        aux_result[2]=result_final[i]
-                        aux_result[3]=result_id[i]
-                        result_final[i]=aux_result[0]
-                        result_id[i]=aux_result[1]
-                        aux_result[0]=aux_result[2]
-                        aux_result[1]=aux_result[3]
-                    break
-        return result_id
-
-        # resultados = []
-        # dic = {}
-        # for url in escalar_matriz:
-        #     x = escalar_matriz[url]/(norma_busca*norma_matriz[url])
-            # item = {url:x}
+            x = escalar_matriz[url]/(norma_busca*norma_matriz[url])
+            item = {url:x}
+            for i in range(resultados.__len__()):
+                if( list(resultados[i].values())[0] < list(item.values())[0] ):
+                    aux = resultados[i]
+                    resultados[i] = item
+                    item = aux
+            resultados.append(item)
         
-    # def sub(self,resultados,url,item,x):
-    #     aux = item
-    #     for i in range(resultados.__len__()):
-    #         if(resultados[i].values()[0] < x ):
-    #             aux = resultados[i].keys()[0]
-    #     return {url:x}
-    #     resultados.append({aux:x})
-    #         r.append( {url : )
-    #     pass
+        return resultados

@@ -11,14 +11,14 @@ class TermoDocumento(object):
         count = 0
         with open("../links.txt") as arquivo:
             for url in arquivo:
-                termo_documento[url] = tokens.copy()
+                termo_documento[url.strip('\n')] = tokens.copy()
                 count+=1
         
         return { "matriz" : termo_documento, "n_documentos" : count}
     
     def preencher_matriz_tf(self,termo_documento):
         for link in termo_documento:
-            url = link.strip('\n')
+            url = link = link.strip('\n')
             url = url.replace("/","").replace("https:","")
             with open("../database/"+url+'.txt') as arquivo:     
                 aux = regexp_tokenize(arquivo.read().lower(),pattern = "[a-zA-Z]+\w+")

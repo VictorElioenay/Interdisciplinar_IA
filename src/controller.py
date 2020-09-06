@@ -17,9 +17,9 @@ class Controller(object):
                     print("Texto extraido de",url)
         
         tokens = Extrator().extrair_tokens()
-        hashh = TermoDocumento().contruir_matriz(tokens)
-        self.matriz = TermoDocumento().preencher_matriz_tf(hashh['matriz'])
-        TermoDocumento().redefinir_matriz(self.matriz, tokens, hashh['n_documentos'])
+        data = TermoDocumento().contruir_matriz(tokens)
+        self.matriz = TermoDocumento().preencher_matriz_tf(data['matriz'])
+        TermoDocumento().redefinir_matriz(self.matriz, tokens, data['n_documentos'])
 
     def buscar(self,chave_busca): 
         return Busca().buscar(chave_busca,self.matriz)
