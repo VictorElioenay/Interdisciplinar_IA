@@ -92,11 +92,16 @@ class Application:
                 for i in resultados:
                     resultados_links.append(i.popitem()[0])
                 
-                # Facilmente alterável
                 for i in range(5):
                     self.labelLinks.append(Label(root, text=resultados_links[i], fg="blue", cursor="hand2"))
                     self.labelLinks[i].pack()
-    
+                
+                self.labelLinks[0].bind('<Button-1>',lambda e : callback(resultados_links[0]) )
+                self.labelLinks[1].bind('<Button-1>',lambda e : callback(resultados_links[1]) )
+                self.labelLinks[2].bind('<Button-1>',lambda e : callback(resultados_links[2]) )
+                self.labelLinks[3].bind('<Button-1>',lambda e : callback(resultados_links[3]) )
+                self.labelLinks[4].bind('<Button-1>',lambda e : callback(resultados_links[4]) )
+                    
     def clearLabelLinks(self):
         for i in self.labelLinks:
             i.destroy()

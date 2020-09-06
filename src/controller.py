@@ -10,11 +10,11 @@ class Controller(object):
         self.matriz = None
 
     def gerarBase(self,path):
-        with open(path, "r") as arquivo:
-            for url in arquivo:
-                url = url.strip('\n')
-                if(Extrator().extrair_de(url)):
-                    print("Texto extraido de",url)
+        # with open(path, "r") as arquivo:
+        #     for url in arquivo:
+        #         url = url.strip('\n')
+        #         if(Extrator().extrair_de(url)):
+        #             print("Texto extraido de",url)
         
         tokens = Extrator().extrair_tokens()
         data = TermoDocumento().contruir_matriz(tokens)
