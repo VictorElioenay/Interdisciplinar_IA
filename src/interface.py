@@ -93,7 +93,7 @@ class Application:
                     resultados_links.append(i.popitem()[0])
                 
                 for i in range(5):
-                    self.labelLinks.append(Label(root, text=resultados_links[i], fg="blue", cursor="hand2"))
+                    self.labelLinks.append(Label(root, text=str(i+1)+"º: "+resultados_links[i], fg="blue", cursor="hand2"))
                     self.labelLinks[i].pack()
                 
                 self.labelLinks[0].bind('<Button-1>',lambda e : callback(resultados_links[0]) )
