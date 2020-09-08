@@ -41,6 +41,8 @@ class TermoDocumento(object):
             for url in termo_documento:
                 if(termo_documento[url][token] != 0 ):
                     count+=1
+            if(count == 0):
+                count = 1
             v_idf[token] = math.log(total_sites/count,10)
             count = 0
 
