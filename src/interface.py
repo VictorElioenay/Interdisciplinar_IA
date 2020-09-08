@@ -3,6 +3,7 @@ from tkinter.filedialog import askopenfilename
 from controller import Controller
 import webbrowser
 
+#Feito por Luiz Gustavo Chinelato Setten, Pedro Henrique Borges Prado, Victor Elioenay Santos Narciso, Yuri PSS Da Silva
 def callback(url):
     webbrowser.open_new(url)
 

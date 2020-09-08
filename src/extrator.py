@@ -7,6 +7,7 @@ import re
 import math
 import io
 
+#Feito por Luiz Gustavo Chinelato Setten, Pedro Henrique Borges Prado, Victor Elioenay Santos Narciso, Yuri PSS Da Silva
 class Extrator(object):
 
     def __init__(self):

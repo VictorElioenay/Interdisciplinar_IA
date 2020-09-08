@@ -4,6 +4,7 @@ from termoDocumento import TermoDocumento
 from busca import Busca
 import re
 
+#Feito por Luiz Gustavo Chinelato Setten, Pedro Henrique Borges Prado, Victor Elioenay Santos Narciso, Yuri PSS Da Silva
 class Controller(object):
     def __init__(self):
         super().__init__()

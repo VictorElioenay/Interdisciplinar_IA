@@ -2,6 +2,7 @@ from nltk.tokenize import regexp_tokenize
 from nltk.stem.snowball import SnowballStemmer
 import math
 
+#Feito por Luiz Gustavo Chinelato Setten, Pedro Henrique Borges Prado, Victor Elioenay Santos Narciso, Yuri PSS Da Silva
 class TermoDocumento(object):
     def __init__(self):
         super().__init__()
