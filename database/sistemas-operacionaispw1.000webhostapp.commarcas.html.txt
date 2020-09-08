@@ -1,0 +1,294 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+
+    
+        Marcas e Modelos
+        
+        Microsoft
+        
+            
+                MS-DOS
+                MS-DOS, acrnimo de Microsoft Disk Operating System,  um sistema operacional comprado pela Microsoft
+                    para ser usado na linha de computadores IBM PC. O dono e criador original do projeto QDOS - Quick
+                    and Dirty Operating System  a empresa Seattle Computer Systems, que foi inicialmente uma tentativa
+                    de criar um concorrente do estabelecido Sistema Operacional CP/M que rodasse no recm-lanado
+                    processador 8086 da Intel.
+            
+
+            
+                Windows 95
+                O Microsoft Windows 95 (codinome Chicago)  um sistema operacional de 16/32 bits criado pela empresa
+                    Microsoft. Lanado em 24 de agosto de 1995, o Windows 95 revolucionou o mercado de sistemas
+                    operacionais e passou a vir instalado por padro com o MS-DOS 7.0 (e no mais separado, como era
+                    antes), sendo o principal lanamento da empresa na dcada de 1990. Entre outras coisas, efetivava o
+                    sistema de arquivos FAT-16 (ou VFAT). Os ficheiros (arquivos) puderam a partir de ento ter 256
+                    caracteres e no apenas 8 como sucedia nas verses anteriores. Os nomes longos passam a ser
+                    armazenados em uma tabela aparte, mantendo assim a compatibilidade com o MS-DOS. O salto do Windows
+                    3.1 para o Windows 95 foi enorme e fez com que a Microsoft pulasse para ser a mais popular
+                    distribuidora de sistemas operacionais.
+                Um dos grandes problemas do Windows 95 era a instabilidade ao rodar aplicativos escritos para o
+                    Windows 3.x, pois o Windows 95 passava a executar a multitarefa cooperativa (exatamente como o
+                    Windows 3.x) entregando ao aplicativo o gerenciamento do processador e da memria, podendo resultar
+                    em travamentos e reinicializaes do computador, caso o aplicativo executasse alguma tarefa
+                    indevida. Portanto, para evitar travamentos no Windows 95 (para quem ainda o usa),  bom evitar usar
+                    aplicativos escritos para o Windows 3.x.
+                Existe uma outra verso do Windows 95, lanada em 1996, chamada de Windows 95 OEM Service Release 2
+                    (OSR 2), com suporte nativo ao sistema de arquivos FAT32. J o Windows 95, a partir da reviso OSR
+                    2.1, inclua o suporte nativo ao Barramento Serial Universal e ao Ultra DMA (veja tabela abaixo).
+                    Teve o suporte encerrado em 2002. 
+            
+
+            
+                Windows 98
+                Windows 98 (chamado pelo codinome Memphis, durante seu desenvolvimento)  um sistema operacional com
+                    interface grfica desenvolvido pela Microsoft.  o segundo maior lanamento da famlia de sistemas
+                    operacionais Windows 9x, e  o sucessor do Windows 95. Ele foi lanado no formato RTM em 15 de Maio
+                    de 1998, e lanado em sua verso varejo em 25 de Junho de 1998.
+                Assim como seu antecessor, o Windows 98  um produto com sistema hbrido com uma arquitetura de
+                    16-bit/32-bit (x86), com seu boot baseado no MS-DOS. O Windows 98 foi sucedido pelo Windows 98
+                    Second Edition em 5 de Maio de 1999, que posteriormente tem sido sucedido pelo Windows ME em 19 de
+                    Junho de 2000. A Microsoft encerrou o suporte regular para o Windows 98 e para o Windows 98 SE em 30
+                    de Junho de 2002, tendo o suporte estendido existente at 11 de Julho de 2006.
+                A famosa msica de inicializao do Windows 98 foi escrita pelo engenheiro de som da Microsoft, Ken
+                    Kato, que considerou um "feito difcil a fazer", aludindo-se ao som de inicializao do Windows 95.
+                
+            
+
+            
+                Windows XP
+                O Windows XP  uma famlia de sistemas operacionais de 32 e 64 bits produzido pela Microsoft, para
+                    uso em computadores pessoais, incluindo computadores residenciais e de escritrio, notebooks,
+                    tablets e media centers. O nome "XP" deriva de eXPerience. O Windows XP  o sucessor de ambos os
+                    Windows 2000 e Windows ME e  o primeiro sistema operacional para consumidores produzido pela
+                    Microsoft construdo em nova arquitetura e ncleo (Windows NT 5.1). O Windows XP foi lanado no dia
+                    25 de Outubro de 2001 e mais de 400 milhes de cpias estavam em uso em Janeiro de 2006, de acordo
+                    com estimativas feitas naquele ms pela empresa de estatsticas IDC. Foi sucedido pelo Windows
+                    Vista lanado para pr-fabricantes no dia 8 de Novembro de 2006 e para o pblico em geral em 30 de
+                    Janeiro de 2007. Suas vendas cessaram no dia 30 de Junho de 2008, porm ainda era possvel adquirir
+                    novas licenas com os desenvolvedores do sistema at 31 de Janeiro de 2009 ou comprando e instalando
+                    as edies Ultimate ou Business do Windows Vista e ento realizando o downgrade para o Windows XP.
+                
+                As duas principais edies do sistema operacional so o Windows XP Home Edition, que  destinada a
+                    utilizadores domsticos, e o Windows XP Professional Edition, que oferece recursos adicionais, tais
+                    como o Domnio de Servidor do Windows, dois processadores fsicos e  direcionada a usurios
+                    avanados e a empresas. O Windows XP Media Center Edition tem mais recursos de multimdia possuindo
+                    a capacidade de gravar e sintonizar programas de televiso, ver filmes de DVD, e ouvir msica. O
+                    Windows XP Tablet PC Edition  designado a rodar aplicaes com o toque de uma caneta usando a
+                    plataforma Tablet PC. Duas verses separadas de 64-bit do Windows XP foram lanadas, a Windows XP
+                    64-bit Edition para processadores IA-64 (Itanium) e a Windows XP Professional x64 Edition para
+                    x86-64. Existe tambm o Windows XP Embedded, uma verso voltada para dispositivos como caixas
+                    eletrnicos, e uma edio para mercados especficos e iniciantes, o Windows XP Starter Edition.
+            
+
+            
+                Windows Vista
+                O Windows Vista  um sistema operacional desenvolvido pela Microsoft, sendo a sexta verso do Windows
+                    para uso em computadores pessoais, incluindo computadores residenciais e de escritrios, laptops,
+                    Tablet PCs e computadores Media Centers. Antes do seu anncio em 22 de Julho de 2005, o Windows
+                    Vista era conhecido pelo nome de cdigo Longhorn. O lanamento do Windows Vista veio mais de cinco
+                    anos depois da introduo do seu predecessor, o Windows XP, sendo o perodo mais longo entre
+                    lanamentos consecutivos de verses do Microsoft Windows.
+                O Windows Vista possui novos recursos e funes dos que os apresentados por sua verso anterior o
+                    Windows XP, como uma nova interface grfica do usurio, apelidada de Windows Aero antes conhecido
+                    pelo codinome Avalon, funes de busca modificadas (como as ferramentas Pesquisa, Executar e como o
+                    Windows Explorer), novas ferramentas de criao multimdia como o Windows DVD Maker, e completamente
+                    renovadas aplicaes para redes de comunicao, udio, impresso e subsistema de exibio; o que
+                    gerou uma grande dificuldade na aceitao do sistema pelos usurios finais devido  sua grande
+                    alterao e  sua grande exigncia do computador (para oper-lo corretamente  necessrio um mnimo
+                    de 1 GB de Memria RAM, e para uma utilizao padro o ideal  2 GB). O Windows Vista tambm tem
+                    como alvo aumentar o nvel de comunicao entre mquinas em uma rede domstica usando a tecnologia
+                    peer-to-peer, facilitando o compartilhamento de arquivos e mdia digital entre computadores e
+                    dispositivos. Para os desenvolvedores, o Vista introduz a verso 3.0 do Microsoft .NET Framework, o
+                    qual tem como alvo tornar significantemente mais fcil para desenvolvedores escrever aplicativos de
+                    alta qualidade do que com a tradicional Windows API, porm tal resultado no foi completamente
+                    alcanado, pois o sistema apresentou uma interface  qual muitos usurios no possuiam uma
+                    identificao graas  sua quase completa modificao, pois houve uma significativa mudana na sua
+                    estrutura.
+            
+
+            
+                Windows 7
+                Windows 7 foi uma verso do Microsoft Windows, uma srie de sistemas operativos produzidos pela
+                    Microsoft para uso em computadores pessoais, incluindo computadores domsticos e empresariais,
+                    laptops, tablets e PCs de centros de mdia, entre outros. Windows 7 foi lanado para empresas no
+                    dia 22 de julho de 2009, e comeou a ser vendido livremente para usurios comuns s 00:00 do dia 22
+                    de outubro de 2009, menos de trs anos depois do lanamento de seu predecessor, Windows Vista. Pouco
+                    mais de trs anos depois, o seu sucessor, Windows 8, foi lanado em 26 de outubro de 2012.
+                Diferente do Windows Vista, que introduziu um grande nmero de novas caractersticas, Windows 7 foi
+                    uma atualizao mais modesta e focalizada para ser mais eficiente, limpo e mais prtico de usar, com
+                    a inteno de torn-lo totalmente compatvel com aplicaes e hardwares com os quais o Windows Vista
+                    j era compatvel. Apresentaes dadas pela companhia no comeo de 2008 mostraram um "Shell" novo,
+                    com uma barra de tarefas mais larga e que agora mostra cones dos programas como atalhos, um novo
+                    Menu Iniciar que expande lateralmente mostrando os arquivos que j foram abertos pelo programa, um
+                    sistema de "network" chamada de "HomeGroup", e aumento na performance ao abrir programas e ao
+                    inicializar o Windows e uma nova tela de boot. Algumas aplicaes que foram includas em lanamentos
+                    anteriores do Windows, como o Calendrio do Windows, Windows Mail, Windows Movie Maker e Windows
+                    Photo Gallery no sero includos no Windows 7  estes so oferecidos separadamente como parte
+                    gratuita do Windows Essentials, para download gratuito.
+            
+
+            
+                Windows 8
+                O Windows 8  um sistema operativo / operacional da Microsoft para computadores pessoais, portteis,
+                    netbooks e tablets.  o sucessor do Windows 7. Foi anunciado oficialmente por Steve Ballmer,
+                    diretor executivo da Microsoft, durante a conferncia de pr-lanamento do sistema operacional.
+                    Segundo a empresa, este sistema operacional ser um sistema para qualquer dispositivo, com uma
+                    interface totalmente nova, adaptada para dispositivos sensveis ao toque.
+                A Microsoft lanou o Windows 8 Developer Preview, primeiro a beta para o pblico, no dia 13 de
+                    setembro de 2011, sendo seguida pela verso Consumer Preview no dia 29 de fevereiro de 2012. No
+                    dia 31 de maio de 2012, foi liberada para download a verso Windows 8 Release Preview. A verso
+                    final foi lanada mundialmente em 26 de outubro de 2012.
+                O Windows 8 no repetiu o sucesso do seu antecessor, Windows 7, tendo em vista a proporo de
+                    usurios mundiais do Sistema Operacional, que chegou ao seu pico mensal de 8,15% em Outubro de 2013,
+                    e quase um ano ano depois, em setembro de 2014, o SO atingiu apenas 6,85% do mercado mundial, uma
+                    queda em relao ao mesmo ms do ano anterior, quando atingiu 7,91%. Atualmente,  o 5 sistema
+                    operacional mais usado no mundo.
+            
+
+            
+                Windows 10
+                Windows 10  um sistema operativo da Microsoft, e atualmente a principal verso do Windows. A sua
+                    primeira verso de testes foi lanada a 1 de outubro de 2014 e apresentou uma srie de mudanas em
+                    relao ao seu predecessor, o Windows 8.1. Entre elas, esto a volta do menu Iniciar, mltiplos
+                    ambientes de trabalho, novo navegador (Microsoft Edge), aplicativos renovados (Foto, Vdeo, Msica,
+                    Loja, Outlook, Office Mobile e at o prompt de comando) e da unio das mltiplas plataformas
+                    (inclusive o App Xbox). Alm das mudanas, a Microsoft anunciou que disponibilizar a nova verso
+                    do Windows tanto para quem utiliza o original tanto para quem utiliza o pirata. Porm, os
+                    utilizadores com o sistema pirata no tero direito a suporte da marca. Este sistema operacional
+                     o NT 10.0, saltando do 6.3 do Windows 8.1.
+                O Windows 10 recebeu, em grande parte, anlises positivas, desde a sua data original de lanamento em
+                    29 de julho de 2015; os crticos elogiaram a posio da Microsoft diante das crticas (especialmente
+                    dos usurios comuns) e sua deciso de eliminar algumas das mecnicas introduzidas no Windows 8, bem
+                    como a adio de um ambiente mais direcionado ao uso em computadores desktop, muito igualmente as
+                    verses anteriores do Windows, no obstante que a interface de touch do Windows 10 foi criticada por
+                    possuir diversas regresses em comparao  interface touch do Windows 8. Os crticos tambm
+                    elogiaram os melhoramentos do software integrado com o Windows 10 em comparao ao 8.1, a adio da
+                    integrao com o Xbox Live, bem como as funcionalidades e capacidades do assistente pessoal do
+                    Cortana, e a substituio do Internet Explorer pelo Edge - apesar de que o navegador foi tambm
+                    criticado por ser incluso ainda em desenvolvimento.
+            
+        
+
+        Apple
+        
+            
+                macOS
+                macOS  um sistema operativo proprietrio baseado no kernel Unix titulado XNU, desenvolvido,
+                    fabricado e vendido pela Apple Inc., destinado exclusivamente aos computadores Mac e que combina a
+                    experincia adquirida com a tradicional GUI desenvolvida para as verses anteriores do Mac OS com um
+                    estvel e comprovado ncleo. A ltima verso do OS X possui certificao UNIX. At a verso 10.8
+                    (Mountain Lion) chamava-se Mac OS X, e entre esta verso e a verso 10.11 (El Capitan) chamava-se OS
+                    X.
+                Assim, o macOS, lanado inicialmente pela Apple Computer em 2001,  uma combinao do Darwin (um
+                    ncleo derivado do microncleo Mach) com uma renovada GUI chamada Aqua. As primeiras verses do Mach
+                    (no-microncleo) foram derivadas do BSD.
+            
+
+            
+                iOS
+                iOS (antes chamado de iPhone OS)  um sistema operacional mvel da Apple Inc. desenvolvido
+                    originalmente para o iPhone, tambm  usado em iPod touch e iPad. A Apple no permite que o iOS seja
+                    executado em hardware de terceiros. As verses principais do iOS so lanadas anualmente.
+                A interface do usurio do iOS  baseado no conceito de manipulao direta, utilizando gestos em
+                    multi-toque. A interao com o sistema operacional inclui gestos como apenas tocar na tela, deslizar
+                    o dedo, e o movimento de "pina" utilizado para se ampliar ou reduzir a imagem. Acelermetros
+                    internos so usados por alguns aplicativos para responder  agitao do aparelho (resultando
+                    comumente no comando desfazer) ou rotao do mesmo (resultando comumente na mudana do modo retrato
+                    para modo paisagem). O iOS consiste em quatro camadas de abstrao: a camada Core OS, a camada Core
+                    Services, a camada mdia, e a camada Cocoa Touch.
+            
+        
+
+        Baseado em Linux (Open Source)
+        
+            
+                Linux Mint
+                Linux Mint  uma distribuio Linux irlandesa. Possui duas verses: uma baseada em Ubuntu (com o qual
+                     totalmente compatvel e partilha os mesmos repositrios) e outra verso baseada em Debian. Suporta
+                    muitos idiomas, incluindo a lngua portuguesa, e utiliza o Cinnamon como seu principal ambiente de
+                    desktop.
+                Esfora-se para ser um "sistema operacional moderno, elegante e confortvel, que  poderoso e fcil
+                    de usar" e possui suporte multimdia pronto para o uso, incluindo alguns softwares proprietrios e
+                    vem com uma variedade de aplicativos gratuitos e de cdigo aberto.
+            
+
+            
+                Debian
+                Debian (pronncia: dbian) anteriormente chamado de Debian GNU/Linux e hoje apenas de Debian, 
+                    um sistema operacional composto inteiramente de software livre.  mantido oficialmente pelo Projeto
+                    Debian. O projeto recebe ainda apoio de outros indivduos e organizaes em todo mundo. O grupo
+                    distribui ainda ncleos Unix-like, como o Debian GNU/kFreeBSD e o Debian GNU/Hurd. O Debian 
+                    especialmente conhecido pelo seu sistema de gesto de pacotes, chamado APT, que permite: atualizao
+                    relativamente fcil a partir de verses relativamente antigas; instalao quase sem esforo para
+                    novos pacotes e remoo limpa de pacotes antigos. Debian vem dos nomes dos seus fundadores, Ian
+                    Murdock e de sua esposa, Debra. O projeto Debian  mantido por meio de doaes  organizao sem
+                    fins lucrativos Software in the Public Interest (SPI).
+                O Debian Stable procura sempre manter os pacotes mais estveis, assim, ele mantm o Gnome e KDE, por
+                    exemplo, em verses mais antigas do que muitas outras distribuies GNU/Linux por padro mantm. O
+                    fato dele conter pacotes mais antigos garante melhor estabilidade e faz com que ele seja melhor
+                    empregado como servidor, bem como utilizado por usurios que desejam estabilidade em estaes de
+                    trabalho ou desktops domsticos. Vrias distribuies comerciais baseiam-se (ou basearam-se) no
+                    Debian, incluindo: Linspire (antigo Lindows), Xandros, Knoppix, Kurumin, BrDesktop e Ubuntu.
+            
+
+            
+                Ubuntu
+                Ubuntu  um sistema operacional de cdigo aberto, construdo a partir do ncleo Linux, baseado no
+                    Debian e utiliza GNOME como ambiente de desktop de sua mais recente verso com suporte de longo
+                    prazo (LTS).  desenvolvido pela Canonical Ltd.
+                Geralmente  executado em computadores pessoais e tambm  popular em servidores de rede, geralmente
+                    executando a verso Ubuntu Server, com recursos de classe empresarial. At 2017, o Ubuntu tambm
+                    estava disponvel para tablets e smartphones, com a edio Ubuntu Touch.
+                A proposta do Ubuntu  oferecer um sistema que qualquer pessoa possa utilizar sem dificuldades,
+                    independentemente de nacionalidade, nvel de conhecimento ou limitaes fsicas. O sistema deve ser
+                    constitudo principalmente por software livre e deve tambm ser isento de qualquer taxa.
+            
+
+            
+                Android
+                Android  um sistema operacional (SO) baseado no ncleo Linux, desenvolvido por um consorcio de
+                    desenvolvedores conhecido como Open Handset Alliance, sendo o principal colaborador o Google. Com
+                    uma interface de usurio baseada na manipulao direta, o Android  projetado principalmente para
+                    dispositivos mveis com tela sensvel ao toque como smartphones e tablets; com interface especfica
+                    para TV (Android TV), carro (Android Auto) e relgio de pulso (Android Wear). O sistema operacional
+                    utiliza-se da tela sensvel ao toque para que o usurio possa manipular objetos virtuais e tambm de
+                    um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sensvel ao
+                    toque, tambm  utilizado em consoles de videogames, cmeras digitais, computadores e outros
+                    dispositivos eletrnicos.
+                O Android  o sistema operacional mvel mais utilizado do mundo, e, em 2013, possua a maior
+                    percentagem das vendas mundiais de SO mveis. Dispositivos com o sistema Android vendem mais que
+                    eletrnicos com Windows, iOS e Mac OS X combinados, com vendas em 2012, 2013 e 2014 perto da base de
+                    computadores do mundo. Em julho de 2013, a loja de aplicativos Google Play possua mais de 1 milho
+                    de aplicativos disponveis, baixados mais de 50 bilhes de vezes. Uma pesquisa com programadores
+                    entre abril e maio de 2013 revelou que 71% dos programadores para sistemas mveis desenvolviam para
+                    o Android. Na conferncia anual Google I/O de 2014, a companhia revelou que existem mais de 1 bilho
+                    de usurios Android ativos. Em junho de 2013, este nmero era de 538 milhes. O maior nmero de
+                    usurios no mundo tambm reflete no nmero de ataques de hackers no sistema, com cerca de 5.000
+                    novos malwares sendo criados todos os dias para usurios Android.
+            
+        
+    
+
+

@@ -1,0 +1,92 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+
+    
+        Histria
+        
+        Na primeira gerao (aproximadamente 1945-1955), os computadores eram to grandes que ocupavam salas imensas,
+            ou mesmo andares inteiros. Foram basicamente construdos com vlvulas e painis, e os sistemas operacionais
+            "no existiam". Os programadores, que tambm eram os operadores, controlavam o computador por meio de
+            chaves, fios e luzes de aviso.
+        
+
+        Nomes como Howard Aiken (Harvard), John von Neumann (Instituto de Estudos Avanados de Princeton), John Adam
+            Presper Eckert Jr e William Mauchley (Universidade da Pennsylvania) e Konrad Zuse (Alemanha) formaram, com
+            suas contribuies, a base humana para o sucesso na construo dos computadores primitivos. Na gerao
+            seguinte (aproximadamente 1955-1965), foram criados os sistemas em lote (batch systems), que permitiram
+            melhor uso dos recursos computacionais. A base do sistema operacional era um programa monitor, usado para
+            enfileirar tarefas (jobs). O usurio foi afastado do computador; cada programa era escrito em cartes
+            perfurados, que por sua vez eram carregados, juntamente com o respectivo compilador (normalmente Fortran ou
+            Cobol), por um operador, que por sua vez usava uma linguagem de controle chamada JCL (job control language).
+        
+
+        No incio da computao os primeiros sistemas operacionais eram nicos, pois cada mainframe vendido
+            necessitava de um sistema operacional especfico. Esse problema era resultado de arquiteturas diferentes e
+            da linguagem que cada mquina utilizava. Aps essa fase, iniciou-se a pesquisa de sistemas operacionais que
+            automatizassem a troca de tarefas (jobs), pois os sistemas eram monousurios e tinham cartes perfurados
+            como entrada (eliminando, assim, o trabalho de pessoas que eram contratadas apenas para trocar os cartes
+            perfurados).
+        
+
+        Diz-se que Alan Turing era um mestre nos primeiros Manchester Mark I, e ele j estava derivando a concepo
+            primitiva de um sistema operacional a partir dos princpios da mquina de Turing universal.
+        
+
+        Um dos primeiros sistemas operacionais de propsito geral foi o CTSS, desenvolvido no MIT. Aps o CTSS, o
+            MIT, os laboratrios Bell da AT&T e a General Electric desenvolveram o Multics, cujo objetivo era suportar
+            centenas de usurios. Apesar do fracasso comercial, o Multics serviu como base para o estudo e
+            desenvolvimento de sistemas operacionais. Um dos desenvolvedores do Multics, que trabalhava para a Bell, Ken
+            Thompson, comeou a reescrever o Multics num conceito menos ambicioso, criando o Unics (em 1969), que mais
+            tarde passou a chamar-se Unix. Os sistemas operacionais eram geralmente programandos em assembly, at mesmo
+            o Unix em seu incio. Ento, Dennis Ritchie (tambm da Bell) criou a linguagem C a partir da linguagem B,
+            que havia sido criada por Thompson. Finalmente, Thompson e Ritchie reescreveram o Unix em C. O Unix criou um
+            ecossistema de verses, onde destacam-se: System V e derivados (HP-UX, AIX); famlia BSD (FreeBSD, NetBSD,
+            OpenBSD, etc.), Linux e at o Mac OS X (que deriva do Mach e FreeBSD). O BSD foi lanado em 1977, sendo ele
+            um sistema operacional fortemente baseado no Unix, focado principalmente para a execuo em mquinas
+            especficas de alto desempenho, como o famoso computador VAX, o qual foi uma referncia de hardware na
+            poca.
+        
+
+        Durante a dcada de 70, o Unix foi distribudo gratuitamente (incluindo seu cdigo fonte) para universidades
+            e rgos governamentais norte-americanos, o que conferiu muita popularidade a este sistema. Sua interface
+            era totalmente em modo texto, sem interface grfica. Quando comearam a aparecer os computadores pessoais,
+            houve a necessidade de um sistema operacional de utilizao mais fcil. Em 1980, William (Bill) Gates e seu
+            colega de faculdade, Paul Allen, fundadores da Microsoft, compram o sistema QDOS ("Quick and Dirty Operating
+            System") de Tim Paterson por $50.000, batizam-no de MS-DOS (Microsoft Disk Operating System). O DOS
+            original, de desenvolvimento da IBM, foi o sistema operativo que a IBM apresentou aquando do lanamento do
+            primeiro PC, vendeu muitas cpias, como o sistema operativo nos computadores pessoais desenvolvidos pela
+            IBM. IBM convidou a Microsoft para uma parceria para o desenvolvimento da verso 2 do IBM OS/2, um sistema
+            operacional. Aps o fim da breve parceria a IBM seguiu sozinha com o desenvolvimento do OS/2 a que deu o
+            nome de OS/2 Warp, concorrendo diretamente com o MS Windows95.
+
+        No comeo da dcada de 1990, um estudante de computao finlands postou um comentrio numa lista de
+            discusso da Usenet dizendo que estava desenvolvendo um ncleo de sistema operacional e perguntou se algum
+            gostaria de auxili-lo na tarefa. Este estudante chamava-se Linus Torvalds e o primeiro passo em direo ao
+            to conhecido Linux foi dado naquele momento.
+
+        
+    
+
+

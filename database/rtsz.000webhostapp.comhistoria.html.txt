@@ -1,0 +1,70 @@
+
+
+    
+    
+    
+    Caractersticas do RTS - RTSZ.com
+    
+    
+
+
+
+    
+    
+        
+            
+                
+                    The Real Time Strategy Zone
+                        
+                            
+                                
+                                  Pagina Principal
+                                  Notcias
+                                  Caractersticas do RTS
+                                  Jogos Favoritos
+                                  Influncia Atualmente
+                                  Criao de Mundo
+                            
+                        
+                    
+                
+            
+        
+
+
+    
+        
+            
+                
+                        
+                            As Caractersticas do RTS
+                        
+                        Estratgia em tempo real (RTS, do ingls Real-time strategy)  um subgnero de jogos de estratgia em que o jogo no tem progresso por turnos. Em um RTS, jogadores geralmente tem o objetivo de fazer uso de recursos para criar bases e unidades, a fim de derrotar o oponente. Estes jogos requerem que o jogador tome decises rpidas de como gerenciar seus recursos e planejar defesa e ataques com suas unidades.
+                        Jogabilidade
+                        Muitos jogos de RTS baseiam-se na construo e desenvolvimento de uma "nao" num determinado perodo histrico, desde a simples tribo ou raa pr-histrica at a nao contempornea, sobre a qual o jogador tem o controle.Isso ocorre em uma interface onde existe um ambiente, geralmente visto de cima, onde o jogador controla unidades de modo ttico. Este controle deve ser feito para que a unidade selecionada execute tarefas como mover-se no "mapa", explorao, coletar recursos, ou mesmo atacar outras unidades do time adversrio.
+                        Neste mesmo ambiente (mapa) existem os recursos que so coletados e processados. Estes recursos so utilizados para financiar a criao de novas unidades, pesquisa, desenvolvimento de habilidades e no comrcio, onde se troca um tipo de recurso por outro. O objetivo de um RTS , sobretudo, a destruio ou controlo do(s) time(s) adversrio(os), usando suas unidades para atacar e destruir as unidades/construes inimigas.
+                        Os tipos de unidades variam de acordo com o jogo em questo. Os mais utilizados so:
+                        Estruturas: edificaes onde so criadas mais unidades, pesquisas, habilidades. Geralmente no se movem.
+                        Terrestres: trabalhadores, aldees, soldados, cavalaria, tanques, mquinas de cerco.
+                        Martimas: embarcaes de guerra, econmicas e transporte; criaturas aquticas.
+                        Areas: aeronaves de guerra e econmicas, criaturas voadoras.
+                        Recursos
+                        Servem para fazer unidades e construes, e podem servir de comrcio com outros recursos. Eles so recolhidos por meio do ambiente, ou de construes usadas por civis.
+                        Imprio
+                        Quando se atingem um certo nvel de habilidade o jogador poder ento construir um imprio, que ter suas prprias estratgias e poder crescer cada vez mais. Para isso o jogador dever se manter equilibrado em todos os recursos disponveis, como exrcito e recursos.
+                        pocas
+                        A maioria dos jogos de RTS tem vrias pocas para evoluir, e assim o jogo muda, contando unidades, construes e recursos. Geralmente as pocas mais avanadas apresentam vantagens sobre as anteriores.
+
+                        Tipos de unidades
+                        Unidade recolector/construtora
+                        Uma unidade recolectora/construtora. A funo dessas unidades  construir e consertar fbricas, armazns etc., alm de recolher recursos naturais.
+                        Unidades de combate
+                        As unidades de combate podem ser "areas", "terrestres" e "aquticas" (dependendo do jogo). So com eles que voc poder atacar e defender os(dos) inimigos. Eles so compostos por um sistema matemtico de ataque, defesa, alcance, velocidade, etc. E ainda alguns tem habilidades especiais como habilidades e utilidades diversas. Eles podem evoluir suas habilidades atravs de tecnologias, entre outros, e conseguir destruir o inimigo dependendo de suas condies.
+
+                        Precursores
+                        Tem vrios jogos diferentes que dizem ser precursores do gnero, mas como a tecnologia era bastante limitada quando os jogos surgiram, eles tambm podem ser considerados precursores de outros gneros, como o RPG. O jogo que realmente definiu os RTS modernos foi o Dune II (1992), que introduziu o conceito bsico dos jogos RTS: explorao de recursos, desenvolvimento e construo de uma base e controle direto sob as unidades.
+                
+            
+        
+
+

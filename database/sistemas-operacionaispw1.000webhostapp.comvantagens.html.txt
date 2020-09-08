@@ -1,0 +1,73 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+    
+        Vantagens e Desvantagens
+        
+        Sistemas Operacionais da Microsoft
+        Vantagens:
+        
+            Suporte a qualquer configurao de hardware
+            Usado mundialmente
+            Interface amigvel ao usurio
+        
+        Desvantagens:
+        
+            Mais lento que macOS/iOS por ter que ser genrico em relao a hardware
+            Licensa paga
+            Maior alvo de malwares
+        
+
+        Sistemas Operacionais da Apple
+        Vantagens:
+        
+            Rapidez devido ao hardware especializado
+            Suporte especializado
+            Interface amigvel ao usurio
+        
+        Desvantagens:
+        
+            No h liberdade de modificao de hardware
+            Dispositivos bem caros
+            No  possvel melhorar o sistema sem ser comprando um novo
+        
+
+        Sistemas Operacionais Open Source (Linux):
+        Vantagens:
+        
+            Suporte a qualquer configurao de hardware
+            Licensa grtis
+            Liberdade de modificao do sistema
+        
+        Desvantagens:
+        
+            Mais lento que macOS/iOS por ter que ser genrico em relao a hardware
+            Interface no amigvel ao usurio iniciante
+            Modificaes feitas por usurios leigos podem comprometer o sistema
+        
+
+        
+    
+
+

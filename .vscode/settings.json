@@ -2,5 +2,5 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "editor.fontSize": 18,
-    "python.pythonPath": "C:\\Users\\victo\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "C:\\Python38\\python.exe"
 }

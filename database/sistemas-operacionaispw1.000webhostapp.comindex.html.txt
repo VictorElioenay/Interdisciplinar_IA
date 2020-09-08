@@ -1,0 +1,55 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+
+    
+        Definio
+        
+        Sistema operacional  um programa ou um conjunto de programas cuja funo  gerenciar os recursos do
+            sistema (definir qual programa recebe ateno do processador, gerenciar memria, criar um sistema de
+            arquivos, etc.), fornecendo uma interface entre o computador e o usurio. Embora possa ser executado
+            imediatamente aps a mquina ser ligada, a maioria dos computadores pessoais de hoje o executa atravs de
+            outro programa armazenado em uma memria no-voltil ROM chamado BIOS num processo chamado "bootstrapping",
+            conceito em ingls usado para designar processos autosustentveis, ou seja, capazes de prosseguirem sem
+            ajuda externa. Aps executar testes e iniciar os componentes da mquina (monitores, discos, etc), o BIOS
+            procura pelo sistema operacional em alguma unidade de armazenamento, geralmente o Disco Rgido, e a partir
+            da, o sistema operacional "toma" o controle da mquina. O sistema operacional reveza sua execuo com a de
+            outros programas, como se estivesse vigiando, controlando e orquestrando todo o processo computacional.
+
+        Segundo Tanenbaum, pela perspectiva do usurio ou programador, existem dois modos distintos de conceituar um
+            sistema operacional:
+
+        
+            numa viso de cima para baixo (top-down):  uma abstrao do hardware, fazendo o papel de
+                intermedirio entre os programas (software) e os componentes fsicos do computador (hardware); ou
+            numa viso de baixo para cima (bottom-up):  um gerenciador de recursos, i.e., que controla as
+                aplicaes (processos) a executar, como, quando e com quais recursos (memria, disco, perifricos).
+        
+
+        Um sistema operacional  projetado para ocultar as particularidades de hardware (ditas "de baixo nvel") e,
+            com sua atuao, criar uma mquina abstrata que fornece s aplicaes servios compreensveis ao usurio
+            (ditas "de alto nvel").
+    
+
+

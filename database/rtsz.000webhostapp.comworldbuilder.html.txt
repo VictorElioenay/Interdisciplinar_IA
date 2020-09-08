@@ -1,0 +1,60 @@
+
+
+    
+    
+    
+    Worldbuilding - RTSZ.com
+    
+    
+
+
+
+
+    
+    
+        
+            
+                
+                    The Real Time Strategy Zone
+                        
+                            
+                                
+                                  Pagina Principal
+                                  Notcias
+                                  Caractersticas do RTS
+                                  Jogos Favoritos
+                                  Influncia Atualmente
+                                  Criao de Mundo
+                            
+                        
+                    
+                
+            
+        
+
+
+    
+        
+            
+                
+                        
+                            Criao de Mundo
+                        
+                        A criao de mundo de um RTS  relativamente simples dependendo das ferramentas disponveis. Usarei como base o "Command & Conquer 3: Tiberium Wars".
+                        O MOD SDK
+                        
+                         Construir os objetos e definir suas propriedades  a parte mais complexa desse processo alm da construo do motor grfico em si. A ferramenta disponibilizada para criao de Mods consistem em criar ou alterar as propriedades dos objetos como, veculos, estruturas ou at mesmo shaders. isso tudo precisa ser programado em XML e compilado pelo MOD SDK.
+                        Criao de Objetos 3D
+                        
+                         Se voc deseja construir um veculo novo no seu jogo, antes de definir suas caractersticas voc precisa modelar o seu veculo primeiro, para isso, o C&C 3 usa o Autodesk Max 9. Atualmente essa  uma ferramenta bem ultrapassada, provavelmente as pessoas usam o Blender para isso, mas no caso do C&C  necessrio que seja essa para que o Plugin disponibilizado pelo MOD SDK converta o arquivo gerado aps o usurio terminar de modelar seu objeto.
+                        O Construtor de Mapas
+                        
+                        O programa Command & Conquer 3 World Builder  o conjunto de ferramentas usado pelos desenvolvedores de jogos para projetar os mapas no C&C 3 Tiberium Wars. A EA lanou este programa ao pblico, permitindo que fs de todos os lugares criem seus prprios mapas personalizados para o jogo.
+                        O World Builder foi originalmente projetado para permitir que os designers fizessem trs tipos diferentes de mapas: mapas para vrios jogadores, mapas de Skirmish (que tambm podem ser usados para vrios jogadores) e mapas de campanha para um jogador. O C&C 3 Mod SDK  necessrio para criar mapas de campanha para um jogador.
+                        A criao do mapa  a parte mais tranquila. O programa de criao de mapas te disponibilizar os objetos 3D com as caractersticas definidas no MOD SDK, e com isso, tudo que  necessrio fazer  coloc-los no mapa e modelar o mapa ao seu gosto.
+                        
+                
+            
+        
+
+

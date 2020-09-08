@@ -1,0 +1,84 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+
+    
+        Tipos
+        
+        Sistema Mono-programado
+        Tambm chamados como sistema mono-tarefa, o sistema operacional mono-programado possui apenas um processador,
+            realiza alocao de memria para somente um processo e um usurio por vez. Apresenta tambm uma CPU ociosa
+            durante entrada e sada de dados e sua implementao  feita de forma simples.
+
+        Sistema em Lote
+        O sistema em lote  tambm um sistema monoprocessado e utiliza a linguagem de Controle de Tarefas (JLC).
+            Caracteriza-se por ter programas armazenados em disco ou fita, que uma vez iniciados, exigem pouca ou
+            nenhuma interao do usurio, processando de forma sequencial e contnua at o fim do job, quando ento 
+            devolvido o resultado final do processamento.
+        
+
+        Sistemas multiprocessadores
+        Os sistemas multiprocessadores  dois ou mais processadores trabalhando juntos  podem ser divididos em duas
+            partes:
+        
+            Sistemas fortemente acoplados;
+            Sistemas fracamente acoplados.
+        
+        Dentro de sistemas fortemente acoplados  memria nica compartilhada por dois ou mais processadores, tendo
+            um mesmo sistema operacional gerenciando todos os processadores , encontramos mais duas divises:
+        
+            Sistemas simtricos  onde os processadores tm a mesma funo;
+            Sistemas assimtricos  onde um processador (mestre) pode executar servios do sistema operacional.
+        
+        Dentro de sistemas fracamente acoplados  mais de dois sistemas operacionais que so ligados por canal de
+            comunicao, tendo hardware e sistemas operacionais independentes  temos:
+        
+            Sistemas operacionais de rede  cada sistema, tambm chamado host ou n, possui seus prprios recursos
+                de hardware, como processadores, memria e dispositivos de entrada e sada. Os ns so totalmente
+                independentes dos terminais, sendo interconectados por uma rede de comunicao de dados, formando uma
+                rede de computadores. Os sistemas operacionais de rede so utilizados tanto em redes locais (Local Area
+                Network - LAN), como em redes distribudas (Wide Area Network - WAN). A ligao entre os diversos ns 
+                feita por uma interface de rede que permite o acesso aos demais componentes da rede. No existe um
+                limite mximo para o nmero de ns que podem fazer parte de uma rede de computadores. Cada n 
+                totalmente independente dos demais, possuindo seu prprio sistema operacional e espao de endereamento.
+                Os sistemas operacionais podem ser heterogneos. Na Internet, cada host pode estar processando um
+                sistema operacional diferente, mas todos esto se comunicando atravs do mesmo protocolo de rede, no
+                caso, os protocolos da famlia TCP/IP (Transmission Control Protocol/Internet Protocol).
+            Sistemas operacionais distribudos  computadores independentes que parecem um nico computador aos
+                olhos do usurio; Trata-se de um conjunto de processos que so executados de forma concorrente, cada um
+                dos quais acessando um subconjunto de recursos do sistema. E essa comunicao  feita em forma de envio
+                de mensagens.
+        
+
+        Sistemas Multi-programado para Tempo Real
+        Os sistemas multi-programado para tempo real alm de serem sistemas multiprogramados, possuem um tempo de
+            resposta rgido e por isso so muito utilizados no controle de processos. Tm menos time-slice e mais
+            prioridade, ademais, seus processos so ativados por sensores.
+
+        A aplicao deste tipo de sistema est em mquinas de usinas, refinarias, trfego areo, etc.
+
+        
+    
+
+
