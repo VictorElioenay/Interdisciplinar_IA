@@ -1,0 +1,108 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+
+    
+        Funcionamento
+        
+        Gerenciamento de processos
+        O sistema operacional multitarefa  preparado para dar ao usurio a iluso que o nmero de processos em
+            execuo simultnea no computador  maior que o nmero de processadores instalados. Cada processo recebe uma
+            fatia do tempo e a alternncia entre vrios processos  to rpida que o usurio pensa que sua execuo 
+            simultnea.
+        So utilizados algoritmos de escalonamento para determinar qual processo ser executado em determinado
+            momento e por quanto tempo.
+        Os processos podem comunicar-se, isto  conhecido como IPC (Inter-Process Communication). Os mecanismos
+            geralmente utilizados so:
+        
+            pipes;
+            named pipes;
+            memria compartilhada;
+            soquetes (sockets);
+            trocas de mensagens.
+        
+        O sistema operacional, normalmente, deve possibilitar o multiprocessamento (SMP ou NUMA). Neste caso,
+            processos diferentes e threads podem ser executados em diferentes processadores. Para essa tarefa, ele deve
+            ser reentrante e interrompvel, o que significa que pode ser interrompido no meio da execuo de uma tarefa.
+        
+
+        Gerenciamento de memria
+        O sistema operacional tem acesso completo  memria do sistema e deve permitir que os processos dos usurios
+            tenham acesso seguro  memria quando o requisitam.
+        Vrios sistemas operacionais usam memria virtual, que possui 3 funes bsicas:
+        
+            Assegurar que cada processo tenha seu prprio espao de endereamento, comeando em zero, para evitar ou
+                resolver o problema de relocao (Tanenbaum, 1999);
+            Prover proteo da memria para impedir que um processo utilize um endereo de memria que no lhe
+                pertena;
+            Possibilitar que uma aplicao utilize mais memria do que a fisicamente existente.
+        
+        Swapping
+        Dentro de gerenciamento de memria, pode no ser possvel manter todos os processos em memria, muitas vezes
+            por no existir memria suficiente para alocar aquele processo. Para solucionar esse problema existe um
+            mecanismo chamado swapping, onde a gerncia de memria reserva uma rea do disco para o seu uso em
+            determinadas situaes, e um processo  completamente copiado da memria para o disco; este processo 
+            retirado da fila do processador e mais tarde ser novamente copiado para a memria; Ento, o processo ficar
+            ativo na fila novamente. O resultado desse revezamento no disco  que o sistema operacional consegue
+            executar mais processos do que caberia em um mesmo instante na memria. Swapping impe aos programas um
+            grande custo em termos de tempo de execuo, pois  necessrio copiar todo o processo para o disco e mais
+            tarde copiar novamente todo o processo para a memria. Em sistemas onde o usurio interage com o programa
+            durante sua execuo, o mecanismo de swapping  utilizado em ltimo caso, quando no se  possvel manter
+            todos os processos na memria, visto que a queda no desempenho do sistema  imediatamente sentida pelo
+            usurio.
+
+        Gerenciamento de recursos
+        Uma das tarefas com extrema importncia atribuda ao sistema operacional  o gerenciamento de recursos, que
+            tem a funo de definir polticas para gerenciar o uso dos recursos de hardware pelos aplicativos,
+            resolvendo disputas e conflitos. Vrios programas de entrada de dados competem pela vez na CPU (Unidade
+            Central de Processamento) e demandam memria, espao em disco e largura. O sistema operacional tem a funo
+            de cuidar de cada aplicativo e para que os mesmos tenham recursos necessrios para o melhor funcionamento e
+            gerencia a capacidade limitada do sistema para que possa atender todas as necessidades de aplicativos e
+            usurios.
+
+        Entrada e sada de dados
+        Sistemas operacionais controlam e gerenciam a entrada e sada (E/S) de dispositivos por trs razes.
+            Primeiro, porque a maioria do hardware do dispositivo utiliza uma interface de baixo nvel, a interface do
+            software  complexa. Em segundo lugar, porque um dispositivo  um recurso compartilhado, um sistema
+            operacional fornece acesso de acordo com as polticas que tornam a partilha justa e segura. Em terceiro
+            lugar, um sistema operacional define uma interface de alto nvel que esconde detalhes e permite que um
+            programador possa usar um conjunto coerente e uniforme das operaes ao interagir com os dispositivos.
+        O subsistema de E/S pode ser divididos em trs peas conceituais:
+        
+            Uma interface abstrata que consiste funes de E/S de alto nvel que os processos possam usar para
+                executar I / O;
+            Um conjunto de dispositivos fsicos;
+            Software de driver de dispositivo que conecta os dois.
+        
+
+        Sistema de arquivos
+        A memria principal do computador  voltil, e seu tamanho  limitado pelo custo do hardware. Assim, os
+            usurios necessitam de algum mtodo para armazenar e recuperar informaes de modo permanente.
+        Um arquivo  um conjunto de bytes, normalmente armazenado em um dispositivo perifrico no voltil (p.ex.,
+            disco), que pode ser lido e gravado por um ou mais processos.
+
+        
+    
+
+

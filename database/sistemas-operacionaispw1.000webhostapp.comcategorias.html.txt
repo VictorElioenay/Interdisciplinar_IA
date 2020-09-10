@@ -1,0 +1,288 @@
+
+
+
+
+    
+    
+    Sistemas Operacionais
+    
+
+
+
+    
+        Sistemas Operacionais
+        
+            O que 
+            Histria
+            Tipos
+            Funcionamento
+            Categorias
+            Marcas/Modelos
+            Vantagens e Desvantagens
+            Imagens
+        
+    
+
+    
+        Categorias
+        
+        Para desktop/servidores
+        
+            
+                Debian
+                O Debian foi lanado em 16 Agosto de 1993 por Ian Murdock, ao tempo estudante universitrio, que
+                    escreveu o Manifesto Debian que apelava  criao de uma distribuio GNU/Linux a ser mantida de uma
+                    maneira livre, segundo o esprito do GNU.
+                O Projeto Debian cresceu vagarosamente e lanou suas verses 0.9x em 1994 e 1995, quando dpkg ganhou
+                    notoriedade. Os primeiros ports para outras arquiteturas iniciaram em 1995, e a primeira verso 1.x
+                    do Debian aconteceu em 1996.
+                Bruce Perens substituiu Ian Murdock como lder do projeto. Ele iniciou a criao de vrios documentos
+                    importantes (o contrato social e o free software guidelines) e a legtima umbrella organization
+                    (SPI), bem como liderou o projeto atravs dos lanamentos das verses da ELF/libc5.
+                Bruce Perens deixou o projeto em 1998 antes do lanamento da primeira verso Debian baseada em glibc,
+                    a 2.0. O Projeto continuou elegendo novos lderes e fazendo mais duas verses 2.x, cada qual
+                    incluindo mais ports e mais pacotes. APT foi lanada durante este tempo e o Debian GNU/Hurd tambm
+                    iniciou-se.
+                O ano de 1999 trouxe as primeiras distribuies GNU/Linux baseadas em Debian, Corel Linux e Stormix's
+                    Storm Linux, hoje descontinuadas mas que iniciaram o que  hoje uma notvel tendncia s
+                    distribuies baseadas em Debian.
+                Perto do ano 2000, o projeto se direcionou ao uso de repositrios de pacotes e  distribuio
+                    "testing", alcanando um marco maior no que se refere aos arquivos e o gerenciamento de lanamentos.
+                    Em 2001, os desenvolvedores iniciaram conferncias anuais, Debconf, com conversas, workshops, e a
+                    recepo aos usurios tcnicos. A verso 3.0 de 2002 incluiu mais do que o dobro do nmero de
+                    pacotes da verso anterior e estava disponvel para cinco novas arquiteturas.
+                Debian celebrou o seu dcimo aniversrio em 16 de Agosto de 2003, com muitas festas de aniversrio em
+                    todo o mundo.
+            
+
+
+            
+                Linux Mint
+                O projeto foi concebido por Clment Lefbvre e est sendo desenvolvido ativamente pelo Linux Mint
+                    Team e pela comunidade. Comeou em 2006 com uma verso beta do Linux Mint 1.0, codinome "Ada",
+                    baseado no Kubuntu. Aps seu lanamento, o Linux Mint 2.0 "Barbara" foi a primeira verso a usar o
+                    Ubuntu como base de cdigo. O Linux Mint tinha poucos usurios dessas verses iniciais at o
+                    lanamento do Linux Mint 3.0, "Cassandra".
+                O Linux Mint 2.0 foi baseado no Ubuntu 6.10, usando seus repositrios de pacotes e usando-o como uma
+                    base de cdigo. A partir da, o Linux Mint seguiu sua prpria base de cdigo, construindo cada
+                    verso do seu anterior, mas continuou usando os repositrios de pacotes do ltimo lanamento do
+                    Ubuntu. Isso resultou em tornar a base entre os dois sistemas quase idntica, garantindo total
+                    compatibilidade entre as duas distribuies, em vez de fazer com que o Mint se tornasse um fork.
+                Em 2008, o Linux Mint adotou o mesmo ciclo de lanamento do Ubuntu e baixou seu nmero de verso
+                    menor antes de lanar a verso 5 "Elyssa". No mesmo ano, em um esforo para aumentar a
+                    compatibilidade entre os dois sistemas, o Linux Mint decidiu abandonar sua base de cdigo e mudou a
+                    forma como construiu seus lanamentos. Comeando com o Linux Mint 6 "Felicia," cada lanamento foi
+                    agora completamente baseado no ltimo lanamento do Ubuntu, construdo diretamente a partir dele, e
+                    cronometrado para aproximadamente um ms aps o lanamento correspondente do Ubuntu, geralmente em
+                    maio ou novembro.
+                Em 2010, o Linux Mint lanou o Linux Mint Debian Edition (LMDE). Ao contrrio das outras edies
+                    baseadas no Ubuntu (Ubuntu Mint), o LMDE era originalmente uma verso baseada diretamente no Debian
+                    rolling release e no estava vinculado aos pacotes do Ubuntu ou ao seu cronograma de lanamento. Foi
+                    anunciado em 27 de maio de 2015 que a equipe do Linux Mint no suportaria mais a verso
+                    original(rolling release) do LMDE aps 1 de janeiro de 2016. O LMDE 2 "Betsy", o lanamento atual
+                    do LMDE,  uma verso de suporte de longo prazo baseada em Debian Jessie (stable).[13] Quando o LMDE
+                    2 foi lanado, foi anunciado que todos os usurios do LMDE seriam automaticamente atualizados para
+                    novas verses do software MintTools e dos novos ambientes desktop antes de serem lanados na edio
+                    principal do Linux Mint.
+                Em 20 de fevereiro de 2016, o site Linux Mint foi invadido por hackers desconhecidos, que
+                    substituram brevemente os links de download de uma verso do Linux Mint por uma verso modificada
+                    que continha malware. Os hackers tambm violaram o banco de dados do frum de usurios do site. Aps
+                    o ataque, o Linux Mint foi severamente criticado por ser uma distribuio que, ao contrrio de
+                    muitos outros na poca, "apenas funcionou" e se tornou popular entre usurios no-tcnicos, mas s
+                    custas de segurana, com algumas atualizaes de segurana no Ubuntu ou Debian na lista negra de
+                    execuo devido a problemas de compatibilidade.
+            
+
+            
+                macOS
+                A herana do que viria a ser macOS teve origem na NeXT, uma empresa fundada por Steve Jobs aps a sua
+                    sada da Apple em 1985. L, o sistema operacional Unix-like NeXTSTEP foi desenvolvido e lanado em
+                    1989. O kernel do NeXTSTEP  baseado no kernel Mach, que foi originalmente desenvolvido na Carnegie
+                    Mellon University, com camadas adicionais de kernel e cdigo de espao de usurio de baixo nvel,
+                    derivado de partes do BSD. Sua interface grfica de usurio foi construda sobre uma GUI toolkit
+                    orientado a objetos usando a linguagem de programao Objective-C. 
+                No incio dos anos 90, a Apple tentou criar um OS de "prxima gerao" para suceder seu Mac OS
+                    clssico atravs dos projetos Taligent, Copland e Gershwin, mas todos eles foram abandonados. Isso
+                    levou a Apple a comprar o NeXTEP em 1996, permitindo que o NeXTSTEP, ento chamado OpenStep,
+                    servisse como base para o sistema operacional de prxima gerao da Apple. Essa compra tambm levou
+                    Steve Jobs a retornar  Apple como um interino, na poca, o ento CEO permanente da empresa,
+                    pastoreou a transformao do OpenStep pelos programadores em um sistema que seria adotado, pelo
+                    mercado primrio da Apple, para usurios domsticos e profissionais criativos. O projeto foi
+                    inicialmente chamado de "Rhapsody" e depois oficialmente chamado de Mac OS X.
+                O Mac OS X foi originalmente apresentado como a dcima verso principal do sistema operacional da
+                    Apple para computadores Macintosh; as verses atuais do macOS mantm o nmero de verso principal
+                    "10". Os sistemas operacionais Macintosh anteriores (verses do Mac OS clssico) eram nomeados
+                    usando nmeros arbicos, como no Mac OS 8 e Mac OS 9. A letra "X" no nome do Mac OS X refere-se ao
+                    nmero 10 no numeral romano. , portanto, corretamente pronunciada como "dez" nesse contexto. No
+                    entanto,  tambm comumente pronunciado como "X" (xis).
+                A primeira verso do Mac OS X, Mac OS X Server 1.0, foi um produto de transio, apresentando uma
+                    interface semelhante ao clssico Mac OS, embora no fosse compatvel com software projetado para o
+                    sistema mais antigo. As verses para consumidores do Mac OS X incluam mais compatibilidade com
+                    verses anteriores. As aplicaes Mac OS puderam ser reescritas para serem executadas nativamente
+                    atravs da API Carbon; muitas tambm puderam ser executadas diretamente atravs do ambiente clssico
+                    com uma reduo na performance.
+                A verso para consumidores do Mac OS X foi lanada em 2001 com o Mac OS X 10.0 codinome Cheetah. As
+                    revises foram variveis, com elogios extensivos  sua sofisticada e brilhante interface Aqua, mas
+                    com crticas ao seu desempenho lento. Com a popularidade da Apple em baixa, os fabricantes de vrios
+                    aplicativos Mac clssicos, como o FrameMaker e o PageMaker, recusaram-se a desenvolver novas verses
+                    de seus softwares para Mac OS X. O colunista da revista americana Ars Technica, John Siracusa, que
+                    revisou todas as principais verses do OS X at 10.10, descreveu os primeiros lanamentos em
+                    retrospectiva como "caracterstica pobre" e com o desenho Aqua, como "insuportavelmente lento e
+                    enormemente parco de recursos".
+            
+
+            
+                MS-DOS
+                Dentro da Histria da computao  considerado por alguns como sendo o produto que decidiu o destino
+                    da ento minscula Microsoft, o MS-DOS foi sucedido por duas linhas de produtos: o OS/2 e o Windows
+                    3.11. O desenvolvimento destes sistemas operacionais (e do Windows NT) pode ser considerado como a
+                    evoluo da informtica nas dcadas de 1980 e 1990.
+                Foi originalmente desenvolvido por Tim Paterson da Seattle Computer Products sob o nome de QDOS
+                    (Quick and Dirty Operating System, que em portugus significa Sistema operacional rpido e raso),
+                    sendo uma variao do CP/M-80 da Digital Research.
+                O QDOS era apenas um produto interno criado para testar uma nova placa com UCP 8086. Tambm no
+                    rodava nas CPUs 8080 (ou compatveis) exigidas pelo CP/M-80. A Microsoft licenciou-o da SCP, fez
+                    algumas modificaes e licenciou-o posteriormente  IBM (vendido como PC-DOS) para seu novo 'PC'
+                    usando a CPU 8088 (que internamente era idntica  8086), e a vrios outros fabricantes de hardware,
+                    vendido ento como MS-DOS.
+                MS-DOS (e o IBM PC-DOS que foi licenciado desde ento), e seu antecessor, QDOS, foram baseados no
+                    CP/M (Control Program / (for) Microcomputers  Programa de Controle para Microcomputadores)  que
+                    era o sistema operacional de disco dominante entre os microcomputadores baseados nos processadores
+                    de 8 bits Intel 8080 e Zilog Z80.
+                A empresa Digital Research produziu um sistema compatvel, conhecido como "DR-DOS", que foi tomado
+                    pela Novell (depois de ter comprado a Digital Research). Este se tornou o "OpenDOS" durante certo
+                    tempo, aps a venda de uma diviso importante da Novell feita a Caldera International, atual SCO.
+                    Mais tarde, a diviso da Caldera se separou, tornando-se a Lineo (posteriormente rebatizada como
+                    Embedix), que por sua vez vendeu o DR-DOS a recm-criada Device Logics, atualmente DRDOS Inc.
+            
+
+            
+                Ubuntu
+                O Ubuntu  construdo sobre a arquitetura e a infraestrutura do Debian, e compreende as verses de
+                    sistema operacional para telefones e tablets Linux, desktop e tablet descontinuados. O Ubuntu lana
+                    verses atualizadas previsivelmente a cada seis meses, e cada lanamento recebe suporte gratuito por
+                    nove meses (dezoito meses antes da verso 13.04) com correes de segurana, correes de bugs de
+                    alto impacto e correes de bugs conservadoras e substancialmente benficas de baixo risco. O
+                    primeiro lanamento foi em outubro de 2004.
+                As verses atuais de suporte de longo prazo (LTS) so suportadas por cinco anos e so lanadas a cada
+                    dois anos. As verses LTS recebem lanamentos de pontos regulares com suporte para novo hardware e
+                    integrao de todas as atualizaes publicadas naquela srie at o momento
+                Os pacotes do Ubuntu so baseados em pacotes do ramo instvel do Debian. Ambas as distribuies usam
+                    o formato de pacote .deb do Debian e ferramentas de gerenciamento de pacotes (por exemplo, APT e
+                    Ubuntu Software). Pacotes Debian e Ubuntu no so necessariamente binariamente compatveis entre si,
+                    no entanto; pacotes podem precisar ser reconstrudos a partir do cdigo-fonte para serem usados no
+                    Ubuntu. Muitos desenvolvedores do Ubuntu tambm so mantenedores de pacotes-chave no Debian. O
+                    Ubuntu coopera com o Debian, empurrando as mudanas de volta para o Debian, embora tenha havido
+                    crticas de que isso no acontece com frequncia suficiente. Ian Murdock, o fundador do Debian,
+                    expressou preocupao com os pacotes do Ubuntu divergindo muito do Debian para permanecerem
+                    compatveis. Antes do lanamento, os pacotes so importados do Debian unstable continuamente e
+                    mesclados com modificaes especficas do Ubuntu. Um ms antes do lanamento, as importaes so
+                    congeladas e os empacotadores trabalham para garantir que os recursos congelados funcionem bem
+                    juntos.
+                Em 8 de julho de 2005, Mark Shuttleworth e a Canonical Ltd anunciaram a criao da Ubuntu Foundation
+                    e providenciaram um aporte inicial de US$ 10 milhes. A finalidade da fundao  garantir apoio e
+                    desenvolvimento a todas as verses posteriores a 5.10.
+                No dia 5 de maio de 2007, Matt Zimmerman anuncia o novo projeto da Canonical, o "Ubuntu Mobile and
+                    Embedded", que seria uma verso do Ubuntu otimizada para uso com o Dispositivo de Internet Mvel da
+                    Intel. A primeira verso, 8.04, foi lanada em 30 de julho de 2008, porm o projeto foi cancelado na
+                    verso 9.10 Alpha 6, lanada em 17 de setembro de 2009.
+                Em 12 de maro de 2009, o Ubuntu anunciou o suporte de desenvolvedores para plataformas de
+                    gerenciamento de nuvem de terceiros, como as usadas no Amazon EC2.
+                Desde o Ubuntu 17.10, o GNOME 3  a GUI padro do Ubuntu Desktop, enquanto o Unity ainda  o padro
+                    em verses mais antigas, incluindo todas as verses atuais do LTS. A verso Ubuntu GNOME foi
+                    descontinuada aps a verso padro adotar este ambiente de desktop e os esforos de desenvolvimento
+                    foram combinados. Uma bifurcao do Unity 8, chamada Yunit, foi criada para continuar o
+                    desenvolvimento do Unity.[24] Shuttleworth escreveu em 8 de abril de 2017
+            
+
+            
+                Microsoft Windows
+                A Microsoft comeou a desenvolver o Microsoft Windows em setembro de 1981. Os primeiros Windows, como
+                    o 1.0, 2.0, so compatveis apenas com parties formatadas em sistema de ficheiros FAT, ou como 
+                    chamado, FAT 16. O 3.x poderia ser instalado em FAT 32, porm necessita ser instalado o MS-DOS 7.10,
+                    que era includo nos disquetes de inicializao do Windows 95 OSR2 e Windows 98, necessitando
+                    modificar alguns arquivos para permitir seu funcionamento. Ao mudar do 3.1 para o 95B (Windows 95
+                    OSR 2/OSR 2.1), os HD's poderiam ser formatados em FAT 32. Inicialmente lanado com o Windows NT, a
+                    tecnologia NTFS  agora o padro de fato para esta classe. Com a convergncia de ambos sistemas, o
+                    Windows XP passou tambm a preferir este formato.
+            
+
+        
+        Para dispositivos mveis (tablets e smartphones)
+        
+            
+                Android
+                Android, Inc. foi fundada em Palo Alto, California em outubro de 2003 por Andy Rubin (cofundador da
+                    Danger), Rich Miner (co-fundador da Wildfire Communications, Inc.), Nick Sears (ex-vice-presidente
+                    da T-Mobile), e Chris White (encabeou o projeto de desenvolvimento de design e interface da WebTV)
+                    para desenvolver, segundo o Rubin, "dispositivos mveis mais inteligentes que estejam mais cientes
+                    das preferncias e da localizao do seu dono". As primeiras intenes da empresa eram de
+                    desenvolver um sistema operacional avanado para cmeras digitais, quando se deram conta de que o
+                    mercado destes dispositivos no era grande o suficiente. Desviaram ento seus esforos para produzir
+                    um sistema operacional mvel para ser rival aos Symbian e Windows Mobile. Apesar daquelas ltimas
+                    conquistas dos fundadores e primeiros empregados, Android Inc. operou secretamente, revelando
+                    somente que estava trabalhando em um software para smartphones. Naquele mesmo ano Andy Rubin ficou
+                    financeiramente escasso. Steve Pearlman, amigo ntimo de Rubin, entregou a ele dez mil dlares em um
+                    envelope e recusou sua parte na companhia.
+                O Google adquiriu Android Inc. em 17 de agosto de 2005; funcionrios-chave da recm-comprada empresa,
+                    incluindo Rubin, Miner e White, continuaram na companhia aps a aquisio. Pouco se sabia sobre a
+                    Android Inc. naquele momento, mas muitos especularam que o Google estava planejando entrar no
+                    mercado de dispositivos mveis com essa jogada. Dentro do Google, o grupo liderado por Rubin
+                    desenvolveu um sistema operacional mvel tendo com base o Kernel Linux. A empresa comercializou o
+                    Android persuadindo empresas fabricantes de celular e operadoras com a promessa de prover um sistema
+                    flexvel e atualizvel. O Google firmou parcerias com empresas fabricantes de hardware, software e
+                    operadores de telefonia mvel e reafirmou que estaria aberta a mtuas cooperaes.
+                A especulao sobre a inteno do Google de entrar no mercado de dispositivos mveis continuou at
+                    dezembro de 2006. Um prottipo inicial de codinome "Sooner" tinha um aspecto parecido com um
+                    telefone BlackBerry, sem touchscreen e um teclado fsico QWERTY, mas foi redesenhado para suportar
+                    visores touchscreen para competir com outros dispositivos recm-anunciados como o LG Prada (2006) e
+                    o iPhone da Apple (2007). Em setembro de 2007, InformationWeek, revista digital americana, cobriu um
+                    estudo da EvalueServe que revelava diversas patentes feitas pelo Google na rea de tecnologia mvel.
+                
+                Em 5 de novembro de 2007 a Open Handset Alliance, consrcio de tecnologia entre empresas do ramo,
+                    incluindo Google, fabricantes de telefones como HTC, Sony e Samsung, operadoras de telefonia como
+                    Sprint Nextel e T-Mobile e fabricantes de chipsets como Qualcomm e a Texas Instruments se revelaram
+                    com o objetivo de criar uma plataforma de padro aberto para dispositivos mveis. Naquele dia o
+                    Android foi revelado como seu primeiro produto: uma plataforma mvel construda no Kernel Linux de
+                    verso 2.6.25. O primeiro smartphone disponvel comercialmente rodando o Android foi o HTC Dream,
+                    lanado em 22 de outubro de 2008.
+                Em 2010 o Google apresentou sua srie de dispositivos Nexus  uma linha de smartphones e tablets
+                    rodando o sistema Android e sendo fabricado por empresas parceiras. HTC colaborou com o Google para
+                    lanar o primeiro smartphone Nexus, o Nexus One. Desde ento o Google tem atualizado sua linha com
+                    novos dispositivos como, por exemplo, o Nexus 5, feito pela LG e o Nexus 7, feito pela Asus. O
+                    Google tem como objetivo atravs dos lanamentos Nexus mostrar as ltimas atualizaes de software e
+                    hardware do Android, sendo estes dispositivos tidos como carros-chefe do Android. No dia 13 de maro
+                    de 2013, Larry Page, CEO e fundador do Google, anunciou em um post no seu blog que Andy Rubin foi
+                    realocado dentro do Google, saindo portanto da diviso do Android. Ele foi substitudo por Sundar
+                    Pichai, o qual tambm continua com seu papel como chefe da diviso Chrome do Google, a qual
+                    desenvolve o Chrome OS.
+                Desde 2008 o Android tem recebido inmeras atualizaes que incrementaram substancialmente o sistema,
+                    adicionando novas funcionalidades e consertando erros de verses anteriores. A cada grande
+                    atualizao o codinome do sistema muda, em ordem alfabtica, entre nomes de doces.
+                De 2010 at 2013 Hugo Barra, brasileiro funcionrio do Google, foi o porta-voz oficial do grupo de
+                    programadores do Android, representando o Android nas conferncias de imprensa e na Google I/O,
+                    evento do Google para programadores. O envolvimento de Hugo Barra no desenvolvimento do Android
+                    inclui e abrange todo o ecossistema do sistema operacional. Hugo Barra saiu do grupo de
+                    desenvolvimento do Android para trabalhar na fabricante de smartphones chinesa Xiaomi.
+            
+
+            
+                iOS
+                O sistema operacional foi apresentado com o iPhone na Macworld Conference & Expo em 9 de janeiro de
+                    2007, e lanado no ms de junho. Inicialmente, as aplicaes de terceiros no eram permitidas. Steve
+                    Jobs argumentou que os desenvolvedores poderiam criar aplicativos na web que "se comportam como
+                    aplicaes nativas no iPhone". Em 17 de outubro de 2007, a Apple anunciou que a SDK nativa estava em
+                    desenvolvimento e que eles esperassem para coloc-la nas "mos dos desenvolvedores".
+                Em 6 de maro de 2008, a Apple lanou o primeiro beta, juntamente com um novo nome para o sistema
+                    operacional: o "iPhone OS". A rpida venda de dispositivos mveis da Apple acendeu interesse no SDK.
+                    A Apple tambm vendeu mais de um milho de iPhones durante uma temporada de feriados de 2007. Em 27
+                    de janeiro de 2010, a Apple anunciou o iPad, com uma tela bem maior do que o iPhone e iPod touch, e
+                    projetado para navegar na web, consumo de mdia, e da leitura de iBooks. O nome "iOS" foi usado pela
+                    Cisco Systems. Para evitar qualquer ao judicial em potencial, a Apple licenciou o "iOS" uma marca
+                    registrada da Cisco
+            
+        
+
+    
+
+

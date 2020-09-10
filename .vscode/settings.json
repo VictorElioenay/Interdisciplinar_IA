@@ -2,5 +2,9 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "editor.fontSize": 18,
+<<<<<<< HEAD
     "python.pythonPath": "/bin/python3"
+=======
+    "python.pythonPath": "C:\\Python38\\python.exe"
+>>>>>>> a0ed76e830b441b9dc8323ed4d63790e6d9667f9
 }

@@ -10,6 +10,7 @@ Projeto de Inteligência Artificial 1s/2020 desenvolvido no IFSULDEMINAS - Campu
 O atual projeto utiliza as bibliotecas requests, mltk e tkinter (esta última já vem instalada na versão mais recente do Python 3)
 
 As bibliotecas requests e nltk devem ser instaladas por meio dos seguintes comandos:
+
 ~~~ Python
  pip install requests
  pip install nltk

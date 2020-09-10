@@ -2,6 +2,7 @@ from nltk.tokenize import regexp_tokenize
 from nltk.stem.snowball import SnowballStemmer
 import math
 
+#Feito por Luiz Gustavo Chinelato Setten, Pedro Henrique Borges Prado, Victor Elioenay Santos Narciso, Yuri PSS Da Silva
 class TermoDocumento(object):
     def __init__(self):
         super().__init__()
@@ -40,6 +41,8 @@ class TermoDocumento(object):
             for url in termo_documento:
                 if(termo_documento[url][token] != 0 ):
                     count+=1
+            if(count == 0):
+                count = 1
             v_idf[token] = math.log(total_sites/count,10)
             count = 0
 
