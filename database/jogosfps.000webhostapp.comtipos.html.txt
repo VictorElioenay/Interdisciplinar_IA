@@ -1,46 +1,46 @@
-
-
-
-    
-    
-    
-    
-    Tipos
-
-
-    
-        Jogos FPS   
-        
-            
-                Home
-                Recomendados
-                Tipos
-                Histria
-                Empresas
-                Gameplays
-                FPS no Brasil
-                Mdias
-            
-        
-    
-        
-            MOBA
-            Moba  um gnero de jogos eletrnicos que mistura elementos de ao, estratgia e RPG (Role Playing Game).
-            Apesar de possuir algumas semelhanas, o gnero MOBA no deve ser confundido com o MMO (massive multiplayer online), enquanto o MMO  marcado por no ter fim, o MOBA possui um nmero mximo de jogadores e  definido em partidas curtas nas quais um time sai vencedor. Uma vez que as partidas so concludas, os jogadores no transferem itens ou personagens para as prximas.
-            Os jogos MOBA se tornaram muito populares no mundo inteiro e j movimentam milhes de dlares por ano na indstria de eSports (esportes eletrnicos). As competies de jogos MOBA possuem as maiores premiaes da indstria e chegaram a distribuir quase 25 milhes de dlares em um nico campeonato de Dota 2 em 2017.
-            Os dois FPS mais famosos desse gnero so Overwatch e Paladins.
-            MMO
-            Quando se fala de jogos para computadores o que muitas pessoas lembram so os "MMOs". Essa abreviao costuma ser relacionada diretamente com os ttulos de RPG, em que o jogador s progride na histria com o auxlio de outros colegas online, mas na verdade ele significa qualquer jogo online que suporte conexes e partidas com centenas ou milhares de pessoas ao mesmo tempo.
-            Entre os FPS deste temos Warframe e Planetside 2.
-            Battleground
-            Modo de jogo mais recente, cerca de 100 a 200 jogadores so lanados em varios pontos de um  mapa gigante onde podem coletar recursos e armas para lutar todos contra todos,o mapa com o tempo vai se reduzindo para que os jodares sejam obrigados a se encontrarem
-            Stealth
-            Um dos modos de jogo mais antigos onde voc deve completar misses sem que inimigos NPC te encontrem
-            Clssico
-            Fps clssicos so aqueles onde guerras so retradas, onde se tem modos de histria para se jogar sozinho e os jogadores tambm podem se enfrentar no modo multiplayer em vrios modos de jogos que mudam suas armas e com diferentes obejetivos, testando quem  tem melhor reflexo e habilidade.
-        
-
-    
-        Site de estudo HTML
-    
-
+
+
+
+    
+    
+    
+    
+    Tipos
+
+
+    
+        Jogos FPS   
+        
+            
+                Home
+                Recomendados
+                Tipos
+                Histria
+                Empresas
+                Gameplays
+                FPS no Brasil
+                Mdias
+            
+        
+    
+        
+            MOBA
+            Moba  um gnero de jogos eletrnicos que mistura elementos de ao, estratgia e RPG (Role Playing Game).
+            Apesar de possuir algumas semelhanas, o gnero MOBA no deve ser confundido com o MMO (massive multiplayer online), enquanto o MMO  marcado por no ter fim, o MOBA possui um nmero mximo de jogadores e  definido em partidas curtas nas quais um time sai vencedor. Uma vez que as partidas so concludas, os jogadores no transferem itens ou personagens para as prximas.
+            Os jogos MOBA se tornaram muito populares no mundo inteiro e j movimentam milhes de dlares por ano na indstria de eSports (esportes eletrnicos). As competies de jogos MOBA possuem as maiores premiaes da indstria e chegaram a distribuir quase 25 milhes de dlares em um nico campeonato de Dota 2 em 2017.
+            Os dois FPS mais famosos desse gnero so Overwatch e Paladins.
+            MMO
+            Quando se fala de jogos para computadores o que muitas pessoas lembram so os "MMOs". Essa abreviao costuma ser relacionada diretamente com os ttulos de RPG, em que o jogador s progride na histria com o auxlio de outros colegas online, mas na verdade ele significa qualquer jogo online que suporte conexes e partidas com centenas ou milhares de pessoas ao mesmo tempo.
+            Entre os FPS deste temos Warframe e Planetside 2.
+            Battleground
+            Modo de jogo mais recente, cerca de 100 a 200 jogadores so lanados em varios pontos de um  mapa gigante onde podem coletar recursos e armas para lutar todos contra todos,o mapa com o tempo vai se reduzindo para que os jodares sejam obrigados a se encontrarem
+            Stealth
+            Um dos modos de jogo mais antigos onde voc deve completar misses sem que inimigos NPC te encontrem
+            Clssico
+            Fps clssicos so aqueles onde guerras so retradas, onde se tem modos de histria para se jogar sozinho e os jogadores tambm podem se enfrentar no modo multiplayer em vrios modos de jogos que mudam suas armas e com diferentes obejetivos, testando quem  tem melhor reflexo e habilidade.
+        
+
+    
+        Site de estudo HTML
+    
+
